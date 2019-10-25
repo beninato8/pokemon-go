@@ -1,0 +1,447 @@
+{
+  "pokemon": {
+    "subscriptions": [
+      {
+        "name": "Gible",
+        "type": "advanced",
+        "min_iv": "15/12/12",
+        "max_iv": "15/15/15",
+        "min_lvl": "0",
+        "max_lvl": "35",
+        "min_cp": "1",
+        "max_cp": "3000",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No",
+        "form": 861
+      },
+      {
+        "name": "Torchic",
+        "type": "advanced",
+        "min_iv": "15/12/12",
+        "max_iv": "15/15/15",
+        "min_lvl": "32",
+        "max_lvl": "35",
+        "min_cp": "1",
+        "max_cp": "3000",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No",
+        "form": ""
+      },
+      {
+        "name": "Beldum",
+        "type": "advanced",
+        "min_iv": "15/12/12",
+        "max_iv": "15/15/15",
+        "min_lvl": "0",
+        "max_lvl": "35",
+        "min_cp": "1",
+        "max_cp": "3000",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No",
+        "form": 764
+      },
+      {
+        "name": "Shieldon",
+        "type": "advanced",
+        "min_iv": "0",
+        "max_iv": "100",
+        "min_lvl": "0",
+        "max_lvl": "35",
+        "min_cp": "9",
+        "max_cp": "10",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No",
+        "form": ""
+      },
+      {
+        "name": "Drilbur",
+        "type": "advanced",
+        "min_iv": "15/12/12",
+        "max_iv": "15/15/15",
+        "min_lvl": "0",
+        "max_lvl": "35",
+        "min_cp": "1",
+        "max_cp": "3000",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No",
+        "form": ""
+      },
+      {
+        "name": "All-1",
+        "type": "simple",
+        "max_iv": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "1",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "min_iv": "100",
+        "min_lvl": "0",
+        "areas": "No",
+        "form": 0
+      },
+      {
+        "name": "Treecko",
+        "type": "simple",
+        "max_iv": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "1",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "min_iv": "15/12/12",
+        "min_lvl": "28",
+        "areas": "No",
+        "form": ""
+      },
+      {
+        "name": "Pinsir",
+        "type": "simple",
+        "max_iv": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "1",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "min_iv": "15/10/10",
+        "min_lvl": "30",
+        "areas": "No",
+        "form": ""
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "176",
+          "form": 0,
+          "pokemon_name": "Togetic"
+        },
+        "name": "Togetic",
+        "form": "",
+        "type": "advanced",
+        "min_iv": "ALL",
+        "max_iv": "ALL",
+        "min_lvl": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "622",
+          "form": 0,
+          "pokemon_name": "Golett"
+        },
+        "name": "Golett",
+        "form": "",
+        "type": "simple",
+        "max_iv": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "1",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "min_iv": "ALL",
+        "min_lvl": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "633",
+          "form": 0,
+          "pokemon_name": "Deino"
+        },
+        "name": "Deino",
+        "form": "",
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "min_iv": "ALL",
+        "max_iv": "ALL",
+        "min_lvl": "ALL",
+        "max_lvl": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "201",
+          "form": 19,
+          "pokemon_name": "Unown"
+        },
+        "name": "Unown",
+        "form": 0,
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "min_iv": "ALL",
+        "max_iv": "ALL",
+        "min_lvl": "ALL",
+        "max_lvl": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "132",
+          "form": 0,
+          "pokemon_name": "Ditto"
+        },
+        "name": "Ditto",
+        "form": 0,
+        "type": "simple",
+        "max_iv": "ALL",
+        "max_lvl": "ALL",
+        "min_cp": "1",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "min_iv": "ALL",
+        "min_lvl": "30",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "607",
+          "form": 0,
+          "pokemon_name": "Litwick"
+        },
+        "name": "Litwick-1",
+        "form": 0,
+        "type": "advanced",
+        "min_iv": "ALL",
+        "max_iv": "ALL",
+        "min_lvl": "30",
+        "max_lvl": "ALL",
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "607",
+          "form": 0,
+          "pokemon_name": "Litwick"
+        },
+        "name": "Litwick",
+        "form": 0,
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "min_iv": "15/12/12",
+        "max_iv": "ALL",
+        "min_lvl": "ALL",
+        "max_lvl": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "215",
+          "form": 797,
+          "pokemon_name": "Sneasel"
+        },
+        "name": "Sneasel",
+        "form": 797,
+        "type": "advanced",
+        "min_iv": "15/12/12",
+        "max_iv": "ALL",
+        "min_lvl": "25",
+        "max_lvl": "ALL",
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "92",
+          "form": 0,
+          "pokemon_name": "Gastly-1"
+        },
+        "name": "Gastly-1",
+        "form": 0,
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "min_iv": "14/12/12",
+        "max_iv": "ALL",
+        "min_lvl": "30",
+        "max_lvl": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      },
+      {
+        "name": "Drilbur-1",
+        "min_cp": "ALL",
+        "max_cp": "ALL",
+        "min_iv": "ALL",
+        "max_iv": "ALL",
+        "min_lvl": "33",
+        "max_lvl": "ALL",
+        "gender": "ALL",
+        "size": "ALL",
+        "areas": "No"
+      }
+    ]
+  },
+  "quests": [
+    "Silver Pinap Berry",
+    "Charged TM",
+    "Spinda"
+  ],
+  "raid": {
+    "subscriptions": [
+      {
+        "gym": "Wisconsin State Capitol",
+        "id": "398e6fd80bb1433f8a6b4d8ecc2145cb.12",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      },
+      {
+        "gym": "Iron Lilies",
+        "id": "d8b084d2942d474b9c4e45b0a31d8fd2.16",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      },
+      {
+        "gym": "Sons of Gold Star Mothers Sundial Memorial",
+        "id": "106f69eb248a4393b52f85f9a6263dba.16",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      },
+      {
+        "gym": "Way of the Cross Park",
+        "id": "fc8ddd33d1364f02ad031eca20b898b8.16",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      },
+      {
+        "gym": "Brittingham Park Gazebo",
+        "id": "1d4d8b88d6a047aebfb43e52ad2a0f22.16",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      },
+      {
+        "gym": "\"Updraft\" by Michael Burns",
+        "id": "4bf9c15a0ba04f33917089b7a0a672ca.16",
+        "pokemon": "All",
+        "boss": "All",
+        "form": 0,
+        "min_lvl": "All",
+        "max_lvl": "All",
+        "areas": "Gym Specified"
+      }
+    ]
+  },
+  "pvp": {
+    "subscriptions": [
+      {
+        "name": "Bulbasaur",
+        "type": "simple",
+        "max_rank": "ALL",
+        "max_percent": "ALL",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "10",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "name": "Pineco",
+        "type": "advanced",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "200",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "name": "All-1",
+        "type": "advanced",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "5",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "name": "Eevee",
+        "type": "advanced",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "50",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "name": "Chikorita",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "150",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "name": "Wooper",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "32",
+        "min_percent": "0",
+        "areas": "No"
+      },
+      {
+        "pokemon": {
+          "pokemon_id": "399",
+          "form": 0,
+          "pokemon_name": "Bidoof"
+        },
+        "name": "Bidoof",
+        "form": 0,
+        "max_rank": "ALL",
+        "max_percent": "ALL",
+        "league": "Great",
+        "min_cp": 1490,
+        "max_cp": 1500,
+        "min_rank": "50",
+        "min_percent": "ALL",
+        "areas": "No"
+      }
+    ]
+  }
+}
