@@ -1,0 +1,3838 @@
+{
+  "Bulbasaur": {
+    "id": 1,
+    "master_str": "V0001_POKEMON_BULBASAUR",
+    "attack": 118,
+    "defense": 111,
+    "stamina": 128
+  },
+  "Ivysaur": {
+    "id": 2,
+    "master_str": "V0002_POKEMON_IVYSAUR",
+    "attack": 151,
+    "defense": 143,
+    "stamina": 155
+  },
+  "Venusaur": {
+    "id": 3,
+    "master_str": "V0003_POKEMON_VENUSAUR",
+    "attack": 198,
+    "defense": 189,
+    "stamina": 190
+  },
+  "Charmander": {
+    "id": 4,
+    "master_str": "V0004_POKEMON_CHARMANDER",
+    "attack": 116,
+    "defense": 93,
+    "stamina": 118
+  },
+  "Charmeleon": {
+    "id": 5,
+    "master_str": "V0005_POKEMON_CHARMELEON",
+    "attack": 158,
+    "defense": 126,
+    "stamina": 151
+  },
+  "Charizard": {
+    "id": 6,
+    "master_str": "V0006_POKEMON_CHARIZARD",
+    "attack": 223,
+    "defense": 173,
+    "stamina": 186
+  },
+  "Squirtle": {
+    "id": 7,
+    "master_str": "V0007_POKEMON_SQUIRTLE",
+    "attack": 94,
+    "defense": 121,
+    "stamina": 127
+  },
+  "Wartortle": {
+    "id": 8,
+    "master_str": "V0008_POKEMON_WARTORTLE",
+    "attack": 126,
+    "defense": 155,
+    "stamina": 153
+  },
+  "Blastoise": {
+    "id": 9,
+    "master_str": "V0009_POKEMON_BLASTOISE",
+    "attack": 171,
+    "defense": 207,
+    "stamina": 188
+  },
+  "Caterpie": {
+    "id": 10,
+    "master_str": "V0010_POKEMON_CATERPIE",
+    "attack": 55,
+    "defense": 55,
+    "stamina": 128
+  },
+  "Metapod": {
+    "id": 11,
+    "master_str": "V0011_POKEMON_METAPOD",
+    "attack": 45,
+    "defense": 80,
+    "stamina": 137
+  },
+  "Butterfree": {
+    "id": 12,
+    "master_str": "V0012_POKEMON_BUTTERFREE",
+    "attack": 167,
+    "defense": 137,
+    "stamina": 155
+  },
+  "Weedle": {
+    "id": 13,
+    "master_str": "V0013_POKEMON_WEEDLE",
+    "attack": 63,
+    "defense": 50,
+    "stamina": 120
+  },
+  "Kakuna": {
+    "id": 14,
+    "master_str": "V0014_POKEMON_KAKUNA",
+    "attack": 46,
+    "defense": 75,
+    "stamina": 128
+  },
+  "Beedrill": {
+    "id": 15,
+    "master_str": "V0015_POKEMON_BEEDRILL",
+    "attack": 169,
+    "defense": 130,
+    "stamina": 163
+  },
+  "Pidgey": {
+    "id": 16,
+    "master_str": "V0016_POKEMON_PIDGEY",
+    "attack": 85,
+    "defense": 73,
+    "stamina": 120
+  },
+  "Pidgeotto": {
+    "id": 17,
+    "master_str": "V0017_POKEMON_PIDGEOTTO",
+    "attack": 117,
+    "defense": 105,
+    "stamina": 160
+  },
+  "Pidgeot": {
+    "id": 18,
+    "master_str": "V0018_POKEMON_PIDGEOT",
+    "attack": 166,
+    "defense": 154,
+    "stamina": 195
+  },
+  "Alolan Rattata": {
+    "id": 19,
+    "master_str": "V0019_POKEMON_RATTATA_ALOLA",
+    "attack": 103,
+    "defense": 70,
+    "stamina": 102
+  },
+  "Rattata": {
+    "id": 19,
+    "master_str": "V0019_POKEMON_RATTATA_NORMAL",
+    "attack": 103,
+    "defense": 70,
+    "stamina": 102
+  },
+  "Alolan Raticate": {
+    "id": 20,
+    "master_str": "V0020_POKEMON_RATICATE_ALOLA",
+    "attack": 135,
+    "defense": 154,
+    "stamina": 181
+  },
+  "Raticate": {
+    "id": 20,
+    "master_str": "V0020_POKEMON_RATICATE_NORMAL",
+    "attack": 161,
+    "defense": 139,
+    "stamina": 146
+  },
+  "Spearow": {
+    "id": 21,
+    "master_str": "V0021_POKEMON_SPEAROW",
+    "attack": 112,
+    "defense": 60,
+    "stamina": 120
+  },
+  "Fearow": {
+    "id": 22,
+    "master_str": "V0022_POKEMON_FEAROW",
+    "attack": 182,
+    "defense": 133,
+    "stamina": 163
+  },
+  "Ekans": {
+    "id": 23,
+    "master_str": "V0023_POKEMON_EKANS",
+    "attack": 110,
+    "defense": 97,
+    "stamina": 111
+  },
+  "Arbok": {
+    "id": 24,
+    "master_str": "V0024_POKEMON_ARBOK",
+    "attack": 167,
+    "defense": 153,
+    "stamina": 155
+  },
+  "Pikachu": {
+    "id": 25,
+    "master_str": "V0025_POKEMON_PIKACHU",
+    "attack": 112,
+    "defense": 96,
+    "stamina": 111
+  },
+  "Alolan Raichu": {
+    "id": 26,
+    "master_str": "V0026_POKEMON_RAICHU_ALOLA",
+    "attack": 201,
+    "defense": 154,
+    "stamina": 155
+  },
+  "Raichu": {
+    "id": 26,
+    "master_str": "V0026_POKEMON_RAICHU_NORMAL",
+    "attack": 193,
+    "defense": 151,
+    "stamina": 155
+  },
+  "Alolan Sandshrew": {
+    "id": 27,
+    "master_str": "V0027_POKEMON_SANDSHREW_ALOLA",
+    "attack": 125,
+    "defense": 129,
+    "stamina": 137
+  },
+  "Sandshrew": {
+    "id": 27,
+    "master_str": "V0027_POKEMON_SANDSHREW_NORMAL",
+    "attack": 126,
+    "defense": 120,
+    "stamina": 137
+  },
+  "Alolan Sandslash": {
+    "id": 28,
+    "master_str": "V0028_POKEMON_SANDSLASH_ALOLA",
+    "attack": 177,
+    "defense": 195,
+    "stamina": 181
+  },
+  "Sandslash": {
+    "id": 28,
+    "master_str": "V0028_POKEMON_SANDSLASH_NORMAL",
+    "attack": 182,
+    "defense": 175,
+    "stamina": 181
+  },
+  "Nidoran": {
+    "id": 32,
+    "master_str": "V0032_POKEMON_NIDORAN",
+    "attack": 105,
+    "defense": 76,
+    "stamina": 130
+  },
+  "Nidorina": {
+    "id": 30,
+    "master_str": "V0030_POKEMON_NIDORINA",
+    "attack": 117,
+    "defense": 120,
+    "stamina": 172
+  },
+  "Nidoqueen": {
+    "id": 31,
+    "master_str": "V0031_POKEMON_NIDOQUEEN",
+    "attack": 180,
+    "defense": 173,
+    "stamina": 207
+  },
+  "Nidorino": {
+    "id": 33,
+    "master_str": "V0033_POKEMON_NIDORINO",
+    "attack": 137,
+    "defense": 111,
+    "stamina": 156
+  },
+  "Nidoking": {
+    "id": 34,
+    "master_str": "V0034_POKEMON_NIDOKING",
+    "attack": 204,
+    "defense": 156,
+    "stamina": 191
+  },
+  "Clefairy": {
+    "id": 35,
+    "master_str": "V0035_POKEMON_CLEFAIRY",
+    "attack": 107,
+    "defense": 108,
+    "stamina": 172
+  },
+  "Clefable": {
+    "id": 36,
+    "master_str": "V0036_POKEMON_CLEFABLE",
+    "attack": 178,
+    "defense": 162,
+    "stamina": 216
+  },
+  "Alolan Vulpix": {
+    "id": 37,
+    "master_str": "V0037_POKEMON_VULPIX_ALOLA",
+    "attack": 96,
+    "defense": 109,
+    "stamina": 116
+  },
+  "Vulpix": {
+    "id": 37,
+    "master_str": "V0037_POKEMON_VULPIX_NORMAL",
+    "attack": 96,
+    "defense": 109,
+    "stamina": 116
+  },
+  "Alolan Ninetales": {
+    "id": 38,
+    "master_str": "V0038_POKEMON_NINETALES_ALOLA",
+    "attack": 170,
+    "defense": 193,
+    "stamina": 177
+  },
+  "Ninetales": {
+    "id": 38,
+    "master_str": "V0038_POKEMON_NINETALES_NORMAL",
+    "attack": 169,
+    "defense": 190,
+    "stamina": 177
+  },
+  "Jigglypuff": {
+    "id": 39,
+    "master_str": "V0039_POKEMON_JIGGLYPUFF",
+    "attack": 80,
+    "defense": 41,
+    "stamina": 251
+  },
+  "Wigglytuff": {
+    "id": 40,
+    "master_str": "V0040_POKEMON_WIGGLYTUFF",
+    "attack": 156,
+    "defense": 90,
+    "stamina": 295
+  },
+  "Zubat": {
+    "id": 41,
+    "master_str": "V0041_POKEMON_ZUBAT",
+    "attack": 83,
+    "defense": 73,
+    "stamina": 120
+  },
+  "Golbat": {
+    "id": 42,
+    "master_str": "V0042_POKEMON_GOLBAT",
+    "attack": 161,
+    "defense": 150,
+    "stamina": 181
+  },
+  "Oddish": {
+    "id": 43,
+    "master_str": "V0043_POKEMON_ODDISH",
+    "attack": 131,
+    "defense": 112,
+    "stamina": 128
+  },
+  "Gloom": {
+    "id": 44,
+    "master_str": "V0044_POKEMON_GLOOM",
+    "attack": 153,
+    "defense": 136,
+    "stamina": 155
+  },
+  "Vileplume": {
+    "id": 45,
+    "master_str": "V0045_POKEMON_VILEPLUME",
+    "attack": 202,
+    "defense": 167,
+    "stamina": 181
+  },
+  "Paras": {
+    "id": 46,
+    "master_str": "V0046_POKEMON_PARAS",
+    "attack": 121,
+    "defense": 99,
+    "stamina": 111
+  },
+  "Parasect": {
+    "id": 47,
+    "master_str": "V0047_POKEMON_PARASECT",
+    "attack": 165,
+    "defense": 146,
+    "stamina": 155
+  },
+  "Venonat": {
+    "id": 48,
+    "master_str": "V0048_POKEMON_VENONAT",
+    "attack": 100,
+    "defense": 100,
+    "stamina": 155
+  },
+  "Venomoth": {
+    "id": 49,
+    "master_str": "V0049_POKEMON_VENOMOTH",
+    "attack": 179,
+    "defense": 143,
+    "stamina": 172
+  },
+  "Alolan Diglett": {
+    "id": 50,
+    "master_str": "V0050_POKEMON_DIGLETT_ALOLA",
+    "attack": 108,
+    "defense": 81,
+    "stamina": 67
+  },
+  "Diglett": {
+    "id": 50,
+    "master_str": "V0050_POKEMON_DIGLETT_NORMAL",
+    "attack": 109,
+    "defense": 78,
+    "stamina": 67
+  },
+  "Alolan Dugtrio": {
+    "id": 51,
+    "master_str": "V0051_POKEMON_DUGTRIO_ALOLA",
+    "attack": 201,
+    "defense": 142,
+    "stamina": 111
+  },
+  "Dugtrio": {
+    "id": 51,
+    "master_str": "V0051_POKEMON_DUGTRIO_NORMAL",
+    "attack": 167,
+    "defense": 136,
+    "stamina": 111
+  },
+  "Alolan Meowth": {
+    "id": 52,
+    "master_str": "V0052_POKEMON_MEOWTH_ALOLA",
+    "attack": 99,
+    "defense": 78,
+    "stamina": 120
+  },
+  "Meowth": {
+    "id": 52,
+    "master_str": "V0052_POKEMON_MEOWTH_NORMAL",
+    "attack": 92,
+    "defense": 78,
+    "stamina": 120
+  },
+  "Alolan Persian": {
+    "id": 53,
+    "master_str": "V0053_POKEMON_PERSIAN_ALOLA",
+    "attack": 158,
+    "defense": 136,
+    "stamina": 163
+  },
+  "Persian": {
+    "id": 53,
+    "master_str": "V0053_POKEMON_PERSIAN_NORMAL",
+    "attack": 150,
+    "defense": 136,
+    "stamina": 163
+  },
+  "Psyduck": {
+    "id": 54,
+    "master_str": "V0054_POKEMON_PSYDUCK",
+    "attack": 122,
+    "defense": 95,
+    "stamina": 137
+  },
+  "Golduck": {
+    "id": 55,
+    "master_str": "V0055_POKEMON_GOLDUCK",
+    "attack": 191,
+    "defense": 162,
+    "stamina": 190
+  },
+  "Mankey": {
+    "id": 56,
+    "master_str": "V0056_POKEMON_MANKEY",
+    "attack": 148,
+    "defense": 82,
+    "stamina": 120
+  },
+  "Primeape": {
+    "id": 57,
+    "master_str": "V0057_POKEMON_PRIMEAPE",
+    "attack": 207,
+    "defense": 138,
+    "stamina": 163
+  },
+  "Growlithe": {
+    "id": 58,
+    "master_str": "V0058_POKEMON_GROWLITHE",
+    "attack": 136,
+    "defense": 93,
+    "stamina": 146
+  },
+  "Arcanine": {
+    "id": 59,
+    "master_str": "V0059_POKEMON_ARCANINE",
+    "attack": 227,
+    "defense": 166,
+    "stamina": 207
+  },
+  "Poliwag": {
+    "id": 60,
+    "master_str": "V0060_POKEMON_POLIWAG",
+    "attack": 101,
+    "defense": 82,
+    "stamina": 120
+  },
+  "Poliwhirl": {
+    "id": 61,
+    "master_str": "V0061_POKEMON_POLIWHIRL",
+    "attack": 130,
+    "defense": 123,
+    "stamina": 163
+  },
+  "Poliwrath": {
+    "id": 62,
+    "master_str": "V0062_POKEMON_POLIWRATH",
+    "attack": 182,
+    "defense": 184,
+    "stamina": 207
+  },
+  "Abra": {
+    "id": 63,
+    "master_str": "V0063_POKEMON_ABRA",
+    "attack": 195,
+    "defense": 82,
+    "stamina": 93
+  },
+  "Kadabra": {
+    "id": 64,
+    "master_str": "V0064_POKEMON_KADABRA",
+    "attack": 232,
+    "defense": 117,
+    "stamina": 120
+  },
+  "Alakazam": {
+    "id": 65,
+    "master_str": "V0065_POKEMON_ALAKAZAM",
+    "attack": 271,
+    "defense": 167,
+    "stamina": 146
+  },
+  "Machop": {
+    "id": 66,
+    "master_str": "V0066_POKEMON_MACHOP",
+    "attack": 137,
+    "defense": 82,
+    "stamina": 172
+  },
+  "Machoke": {
+    "id": 67,
+    "master_str": "V0067_POKEMON_MACHOKE",
+    "attack": 177,
+    "defense": 125,
+    "stamina": 190
+  },
+  "Machamp": {
+    "id": 68,
+    "master_str": "V0068_POKEMON_MACHAMP",
+    "attack": 234,
+    "defense": 159,
+    "stamina": 207
+  },
+  "Bellsprout": {
+    "id": 69,
+    "master_str": "V0069_POKEMON_BELLSPROUT",
+    "attack": 139,
+    "defense": 61,
+    "stamina": 137
+  },
+  "Weepinbell": {
+    "id": 70,
+    "master_str": "V0070_POKEMON_WEEPINBELL",
+    "attack": 172,
+    "defense": 92,
+    "stamina": 163
+  },
+  "Victreebel": {
+    "id": 71,
+    "master_str": "V0071_POKEMON_VICTREEBEL",
+    "attack": 207,
+    "defense": 135,
+    "stamina": 190
+  },
+  "Tentacool": {
+    "id": 72,
+    "master_str": "V0072_POKEMON_TENTACOOL",
+    "attack": 97,
+    "defense": 149,
+    "stamina": 120
+  },
+  "Tentacruel": {
+    "id": 73,
+    "master_str": "V0073_POKEMON_TENTACRUEL",
+    "attack": 166,
+    "defense": 209,
+    "stamina": 190
+  },
+  "Alolan Geodude": {
+    "id": 74,
+    "master_str": "V0074_POKEMON_GEODUDE_ALOLA",
+    "attack": 132,
+    "defense": 132,
+    "stamina": 120
+  },
+  "Geodude": {
+    "id": 74,
+    "master_str": "V0074_POKEMON_GEODUDE_NORMAL",
+    "attack": 132,
+    "defense": 132,
+    "stamina": 120
+  },
+  "Alolan Graveler": {
+    "id": 75,
+    "master_str": "V0075_POKEMON_GRAVELER_ALOLA",
+    "attack": 164,
+    "defense": 164,
+    "stamina": 146
+  },
+  "Graveler": {
+    "id": 75,
+    "master_str": "V0075_POKEMON_GRAVELER_NORMAL",
+    "attack": 164,
+    "defense": 164,
+    "stamina": 146
+  },
+  "Alolan Golem": {
+    "id": 76,
+    "master_str": "V0076_POKEMON_GOLEM_ALOLA",
+    "attack": 211,
+    "defense": 198,
+    "stamina": 190
+  },
+  "Golem": {
+    "id": 76,
+    "master_str": "V0076_POKEMON_GOLEM_NORMAL",
+    "attack": 211,
+    "defense": 198,
+    "stamina": 190
+  },
+  "Ponyta": {
+    "id": 77,
+    "master_str": "V0077_POKEMON_PONYTA",
+    "attack": 170,
+    "defense": 127,
+    "stamina": 137
+  },
+  "Rapidash": {
+    "id": 78,
+    "master_str": "V0078_POKEMON_RAPIDASH",
+    "attack": 207,
+    "defense": 162,
+    "stamina": 163
+  },
+  "Slowpoke": {
+    "id": 79,
+    "master_str": "V0079_POKEMON_SLOWPOKE",
+    "attack": 109,
+    "defense": 98,
+    "stamina": 207
+  },
+  "Slowbro": {
+    "id": 80,
+    "master_str": "V0080_POKEMON_SLOWBRO",
+    "attack": 177,
+    "defense": 180,
+    "stamina": 216
+  },
+  "Magnemite": {
+    "id": 81,
+    "master_str": "V0081_POKEMON_MAGNEMITE",
+    "attack": 165,
+    "defense": 121,
+    "stamina": 93
+  },
+  "Magneton": {
+    "id": 82,
+    "master_str": "V0082_POKEMON_MAGNETON",
+    "attack": 223,
+    "defense": 169,
+    "stamina": 137
+  },
+  "Farfetchd": {
+    "id": 83,
+    "master_str": "V0083_POKEMON_FARFETCHD",
+    "attack": 124,
+    "defense": 115,
+    "stamina": 141
+  },
+  "Doduo": {
+    "id": 84,
+    "master_str": "V0084_POKEMON_DODUO",
+    "attack": 158,
+    "defense": 83,
+    "stamina": 111
+  },
+  "Dodrio": {
+    "id": 85,
+    "master_str": "V0085_POKEMON_DODRIO",
+    "attack": 218,
+    "defense": 140,
+    "stamina": 155
+  },
+  "Seel": {
+    "id": 86,
+    "master_str": "V0086_POKEMON_SEEL",
+    "attack": 85,
+    "defense": 121,
+    "stamina": 163
+  },
+  "Dewgong": {
+    "id": 87,
+    "master_str": "V0087_POKEMON_DEWGONG",
+    "attack": 139,
+    "defense": 177,
+    "stamina": 207
+  },
+  "Alolan Grimer": {
+    "id": 88,
+    "master_str": "V0088_POKEMON_GRIMER_ALOLA",
+    "attack": 135,
+    "defense": 90,
+    "stamina": 190
+  },
+  "Grimer": {
+    "id": 88,
+    "master_str": "V0088_POKEMON_GRIMER_NORMAL",
+    "attack": 135,
+    "defense": 90,
+    "stamina": 190
+  },
+  "Alolan Muk": {
+    "id": 89,
+    "master_str": "V0089_POKEMON_MUK_ALOLA",
+    "attack": 190,
+    "defense": 172,
+    "stamina": 233
+  },
+  "Muk": {
+    "id": 89,
+    "master_str": "V0089_POKEMON_MUK_NORMAL",
+    "attack": 190,
+    "defense": 172,
+    "stamina": 233
+  },
+  "Shellder": {
+    "id": 90,
+    "master_str": "V0090_POKEMON_SHELLDER",
+    "attack": 116,
+    "defense": 134,
+    "stamina": 102
+  },
+  "Cloyster": {
+    "id": 91,
+    "master_str": "V0091_POKEMON_CLOYSTER",
+    "attack": 186,
+    "defense": 256,
+    "stamina": 137
+  },
+  "Gastly": {
+    "id": 92,
+    "master_str": "V0092_POKEMON_GASTLY",
+    "attack": 186,
+    "defense": 67,
+    "stamina": 102
+  },
+  "Haunter": {
+    "id": 93,
+    "master_str": "V0093_POKEMON_HAUNTER",
+    "attack": 223,
+    "defense": 107,
+    "stamina": 128
+  },
+  "Gengar": {
+    "id": 94,
+    "master_str": "V0094_POKEMON_GENGAR",
+    "attack": 261,
+    "defense": 149,
+    "stamina": 155
+  },
+  "Onix": {
+    "id": 95,
+    "master_str": "V0095_POKEMON_ONIX",
+    "attack": 85,
+    "defense": 232,
+    "stamina": 111
+  },
+  "Drowzee": {
+    "id": 96,
+    "master_str": "V0096_POKEMON_DROWZEE",
+    "attack": 89,
+    "defense": 136,
+    "stamina": 155
+  },
+  "Hypno": {
+    "id": 97,
+    "master_str": "V0097_POKEMON_HYPNO",
+    "attack": 144,
+    "defense": 193,
+    "stamina": 198
+  },
+  "Krabby": {
+    "id": 98,
+    "master_str": "V0098_POKEMON_KRABBY",
+    "attack": 181,
+    "defense": 124,
+    "stamina": 102
+  },
+  "Kingler": {
+    "id": 99,
+    "master_str": "V0099_POKEMON_KINGLER",
+    "attack": 240,
+    "defense": 181,
+    "stamina": 146
+  },
+  "Voltorb": {
+    "id": 100,
+    "master_str": "V0100_POKEMON_VOLTORB",
+    "attack": 109,
+    "defense": 111,
+    "stamina": 120
+  },
+  "Electrode": {
+    "id": 101,
+    "master_str": "V0101_POKEMON_ELECTRODE",
+    "attack": 173,
+    "defense": 173,
+    "stamina": 155
+  },
+  "Exeggcute": {
+    "id": 102,
+    "master_str": "V0102_POKEMON_EXEGGCUTE",
+    "attack": 107,
+    "defense": 125,
+    "stamina": 155
+  },
+  "Alolan Exeggutor": {
+    "id": 103,
+    "master_str": "V0103_POKEMON_EXEGGUTOR_ALOLA",
+    "attack": 230,
+    "defense": 153,
+    "stamina": 216
+  },
+  "Exeggutor": {
+    "id": 103,
+    "master_str": "V0103_POKEMON_EXEGGUTOR_NORMAL",
+    "attack": 233,
+    "defense": 149,
+    "stamina": 216
+  },
+  "Cubone": {
+    "id": 104,
+    "master_str": "V0104_POKEMON_CUBONE",
+    "attack": 90,
+    "defense": 144,
+    "stamina": 137
+  },
+  "Alolan Marowak": {
+    "id": 105,
+    "master_str": "V0105_POKEMON_MAROWAK_ALOLA",
+    "attack": 144,
+    "defense": 186,
+    "stamina": 155
+  },
+  "Marowak": {
+    "id": 105,
+    "master_str": "V0105_POKEMON_MAROWAK_NORMAL",
+    "attack": 144,
+    "defense": 186,
+    "stamina": 155
+  },
+  "Hitmonlee": {
+    "id": 106,
+    "master_str": "V0106_POKEMON_HITMONLEE",
+    "attack": 224,
+    "defense": 181,
+    "stamina": 137
+  },
+  "Hitmonchan": {
+    "id": 107,
+    "master_str": "V0107_POKEMON_HITMONCHAN",
+    "attack": 193,
+    "defense": 197,
+    "stamina": 137
+  },
+  "Lickitung": {
+    "id": 108,
+    "master_str": "V0108_POKEMON_LICKITUNG",
+    "attack": 108,
+    "defense": 137,
+    "stamina": 207
+  },
+  "Koffing": {
+    "id": 109,
+    "master_str": "V0109_POKEMON_KOFFING",
+    "attack": 119,
+    "defense": 141,
+    "stamina": 120
+  },
+  "Weezing": {
+    "id": 110,
+    "master_str": "V0110_POKEMON_WEEZING",
+    "attack": 174,
+    "defense": 197,
+    "stamina": 163
+  },
+  "Rhyhorn": {
+    "id": 111,
+    "master_str": "V0111_POKEMON_RHYHORN",
+    "attack": 140,
+    "defense": 127,
+    "stamina": 190
+  },
+  "Rhydon": {
+    "id": 112,
+    "master_str": "V0112_POKEMON_RHYDON",
+    "attack": 222,
+    "defense": 171,
+    "stamina": 233
+  },
+  "Chansey": {
+    "id": 113,
+    "master_str": "V0113_POKEMON_CHANSEY",
+    "attack": 60,
+    "defense": 128,
+    "stamina": 487
+  },
+  "Tangela": {
+    "id": 114,
+    "master_str": "V0114_POKEMON_TANGELA",
+    "attack": 183,
+    "defense": 169,
+    "stamina": 163
+  },
+  "Kangaskhan": {
+    "id": 115,
+    "master_str": "V0115_POKEMON_KANGASKHAN",
+    "attack": 181,
+    "defense": 165,
+    "stamina": 233
+  },
+  "Horsea": {
+    "id": 116,
+    "master_str": "V0116_POKEMON_HORSEA",
+    "attack": 129,
+    "defense": 103,
+    "stamina": 102
+  },
+  "Seadra": {
+    "id": 117,
+    "master_str": "V0117_POKEMON_SEADRA",
+    "attack": 187,
+    "defense": 156,
+    "stamina": 146
+  },
+  "Goldeen": {
+    "id": 118,
+    "master_str": "V0118_POKEMON_GOLDEEN",
+    "attack": 123,
+    "defense": 110,
+    "stamina": 128
+  },
+  "Seaking": {
+    "id": 119,
+    "master_str": "V0119_POKEMON_SEAKING",
+    "attack": 175,
+    "defense": 147,
+    "stamina": 190
+  },
+  "Staryu": {
+    "id": 120,
+    "master_str": "V0120_POKEMON_STARYU",
+    "attack": 137,
+    "defense": 112,
+    "stamina": 102
+  },
+  "Starmie": {
+    "id": 121,
+    "master_str": "V0121_POKEMON_STARMIE",
+    "attack": 210,
+    "defense": 184,
+    "stamina": 155
+  },
+  "Mr Mime": {
+    "id": 122,
+    "master_str": "V0122_POKEMON_MR_MIME",
+    "attack": 192,
+    "defense": 205,
+    "stamina": 120
+  },
+  "Scyther": {
+    "id": 123,
+    "master_str": "V0123_POKEMON_SCYTHER",
+    "attack": 218,
+    "defense": 170,
+    "stamina": 172
+  },
+  "Jynx": {
+    "id": 124,
+    "master_str": "V0124_POKEMON_JYNX",
+    "attack": 223,
+    "defense": 151,
+    "stamina": 163
+  },
+  "Electabuzz": {
+    "id": 125,
+    "master_str": "V0125_POKEMON_ELECTABUZZ",
+    "attack": 198,
+    "defense": 158,
+    "stamina": 163
+  },
+  "Magmar": {
+    "id": 126,
+    "master_str": "V0126_POKEMON_MAGMAR",
+    "attack": 206,
+    "defense": 154,
+    "stamina": 163
+  },
+  "Pinsir": {
+    "id": 127,
+    "master_str": "V0127_POKEMON_PINSIR",
+    "attack": 238,
+    "defense": 182,
+    "stamina": 163
+  },
+  "Tauros": {
+    "id": 128,
+    "master_str": "V0128_POKEMON_TAUROS",
+    "attack": 198,
+    "defense": 183,
+    "stamina": 181
+  },
+  "Magikarp": {
+    "id": 129,
+    "master_str": "V0129_POKEMON_MAGIKARP",
+    "attack": 29,
+    "defense": 85,
+    "stamina": 85
+  },
+  "Gyarados": {
+    "id": 130,
+    "master_str": "V0130_POKEMON_GYARADOS",
+    "attack": 237,
+    "defense": 186,
+    "stamina": 216
+  },
+  "Lapras": {
+    "id": 131,
+    "master_str": "V0131_POKEMON_LAPRAS",
+    "attack": 165,
+    "defense": 174,
+    "stamina": 277
+  },
+  "Ditto": {
+    "id": 132,
+    "master_str": "V0132_POKEMON_DITTO",
+    "attack": 91,
+    "defense": 91,
+    "stamina": 134
+  },
+  "Eevee": {
+    "id": 133,
+    "master_str": "V0133_POKEMON_EEVEE",
+    "attack": 104,
+    "defense": 114,
+    "stamina": 146
+  },
+  "Vaporeon": {
+    "id": 134,
+    "master_str": "V0134_POKEMON_VAPOREON",
+    "attack": 205,
+    "defense": 161,
+    "stamina": 277
+  },
+  "Jolteon": {
+    "id": 135,
+    "master_str": "V0135_POKEMON_JOLTEON",
+    "attack": 232,
+    "defense": 182,
+    "stamina": 163
+  },
+  "Flareon": {
+    "id": 136,
+    "master_str": "V0136_POKEMON_FLAREON",
+    "attack": 246,
+    "defense": 179,
+    "stamina": 163
+  },
+  "Omanyte": {
+    "id": 138,
+    "master_str": "V0138_POKEMON_OMANYTE",
+    "attack": 155,
+    "defense": 153,
+    "stamina": 111
+  },
+  "Omastar": {
+    "id": 139,
+    "master_str": "V0139_POKEMON_OMASTAR",
+    "attack": 207,
+    "defense": 201,
+    "stamina": 172
+  },
+  "Kabuto": {
+    "id": 140,
+    "master_str": "V0140_POKEMON_KABUTO",
+    "attack": 148,
+    "defense": 140,
+    "stamina": 102
+  },
+  "Kabutops": {
+    "id": 141,
+    "master_str": "V0141_POKEMON_KABUTOPS",
+    "attack": 220,
+    "defense": 186,
+    "stamina": 155
+  },
+  "Aerodactyl": {
+    "id": 142,
+    "master_str": "V0142_POKEMON_AERODACTYL",
+    "attack": 221,
+    "defense": 159,
+    "stamina": 190
+  },
+  "Snorlax": {
+    "id": 143,
+    "master_str": "V0143_POKEMON_SNORLAX",
+    "attack": 190,
+    "defense": 169,
+    "stamina": 330
+  },
+  "Articuno": {
+    "id": 144,
+    "master_str": "V0144_POKEMON_ARTICUNO",
+    "attack": 192,
+    "defense": 236,
+    "stamina": 207
+  },
+  "Zapdos": {
+    "id": 145,
+    "master_str": "V0145_POKEMON_ZAPDOS",
+    "attack": 253,
+    "defense": 185,
+    "stamina": 207
+  },
+  "Moltres": {
+    "id": 146,
+    "master_str": "V0146_POKEMON_MOLTRES",
+    "attack": 251,
+    "defense": 181,
+    "stamina": 207
+  },
+  "Dratini": {
+    "id": 147,
+    "master_str": "V0147_POKEMON_DRATINI",
+    "attack": 119,
+    "defense": 91,
+    "stamina": 121
+  },
+  "Dragonair": {
+    "id": 148,
+    "master_str": "V0148_POKEMON_DRAGONAIR",
+    "attack": 163,
+    "defense": 135,
+    "stamina": 156
+  },
+  "Dragonite": {
+    "id": 149,
+    "master_str": "V0149_POKEMON_DRAGONITE",
+    "attack": 263,
+    "defense": 198,
+    "stamina": 209
+  },
+  "Mewtwo": {
+    "id": 150,
+    "master_str": "V0150_POKEMON_MEWTWO",
+    "attack": 300,
+    "defense": 182,
+    "stamina": 214
+  },
+  "Mew": {
+    "id": 151,
+    "master_str": "V0151_POKEMON_MEW",
+    "attack": 210,
+    "defense": 210,
+    "stamina": 225
+  },
+  "Chikorita": {
+    "id": 152,
+    "master_str": "V0152_POKEMON_CHIKORITA",
+    "attack": 92,
+    "defense": 122,
+    "stamina": 128
+  },
+  "Bayleef": {
+    "id": 153,
+    "master_str": "V0153_POKEMON_BAYLEEF",
+    "attack": 122,
+    "defense": 155,
+    "stamina": 155
+  },
+  "Meganium": {
+    "id": 154,
+    "master_str": "V0154_POKEMON_MEGANIUM",
+    "attack": 168,
+    "defense": 202,
+    "stamina": 190
+  },
+  "Cyndaquil": {
+    "id": 155,
+    "master_str": "V0155_POKEMON_CYNDAQUIL",
+    "attack": 116,
+    "defense": 93,
+    "stamina": 118
+  },
+  "Quilava": {
+    "id": 156,
+    "master_str": "V0156_POKEMON_QUILAVA",
+    "attack": 158,
+    "defense": 126,
+    "stamina": 151
+  },
+  "Typhlosion": {
+    "id": 157,
+    "master_str": "V0157_POKEMON_TYPHLOSION",
+    "attack": 223,
+    "defense": 173,
+    "stamina": 186
+  },
+  "Totodile": {
+    "id": 158,
+    "master_str": "V0158_POKEMON_TOTODILE",
+    "attack": 117,
+    "defense": 109,
+    "stamina": 137
+  },
+  "Croconaw": {
+    "id": 159,
+    "master_str": "V0159_POKEMON_CROCONAW",
+    "attack": 150,
+    "defense": 142,
+    "stamina": 163
+  },
+  "Feraligatr": {
+    "id": 160,
+    "master_str": "V0160_POKEMON_FERALIGATR",
+    "attack": 205,
+    "defense": 188,
+    "stamina": 198
+  },
+  "Sentret": {
+    "id": 161,
+    "master_str": "V0161_POKEMON_SENTRET",
+    "attack": 79,
+    "defense": 73,
+    "stamina": 111
+  },
+  "Furret": {
+    "id": 162,
+    "master_str": "V0162_POKEMON_FURRET",
+    "attack": 148,
+    "defense": 125,
+    "stamina": 198
+  },
+  "Hoothoot": {
+    "id": 163,
+    "master_str": "V0163_POKEMON_HOOTHOOT",
+    "attack": 67,
+    "defense": 88,
+    "stamina": 155
+  },
+  "Noctowl": {
+    "id": 164,
+    "master_str": "V0164_POKEMON_NOCTOWL",
+    "attack": 145,
+    "defense": 156,
+    "stamina": 225
+  },
+  "Ledyba": {
+    "id": 165,
+    "master_str": "V0165_POKEMON_LEDYBA",
+    "attack": 72,
+    "defense": 118,
+    "stamina": 120
+  },
+  "Ledian": {
+    "id": 166,
+    "master_str": "V0166_POKEMON_LEDIAN",
+    "attack": 107,
+    "defense": 179,
+    "stamina": 146
+  },
+  "Spinarak": {
+    "id": 167,
+    "master_str": "V0167_POKEMON_SPINARAK",
+    "attack": 105,
+    "defense": 73,
+    "stamina": 120
+  },
+  "Ariados": {
+    "id": 168,
+    "master_str": "V0168_POKEMON_ARIADOS",
+    "attack": 161,
+    "defense": 124,
+    "stamina": 172
+  },
+  "Crobat": {
+    "id": 169,
+    "master_str": "V0169_POKEMON_CROBAT",
+    "attack": 194,
+    "defense": 178,
+    "stamina": 198
+  },
+  "Chinchou": {
+    "id": 170,
+    "master_str": "V0170_POKEMON_CHINCHOU",
+    "attack": 106,
+    "defense": 97,
+    "stamina": 181
+  },
+  "Lanturn": {
+    "id": 171,
+    "master_str": "V0171_POKEMON_LANTURN",
+    "attack": 146,
+    "defense": 137,
+    "stamina": 268
+  },
+  "Pichu": {
+    "id": 172,
+    "master_str": "V0172_POKEMON_PICHU",
+    "attack": 77,
+    "defense": 53,
+    "stamina": 85
+  },
+  "Cleffa": {
+    "id": 173,
+    "master_str": "V0173_POKEMON_CLEFFA",
+    "attack": 75,
+    "defense": 79,
+    "stamina": 137
+  },
+  "Igglybuff": {
+    "id": 174,
+    "master_str": "V0174_POKEMON_IGGLYBUFF",
+    "attack": 69,
+    "defense": 32,
+    "stamina": 207
+  },
+  "Togepi": {
+    "id": 175,
+    "master_str": "V0175_POKEMON_TOGEPI",
+    "attack": 67,
+    "defense": 116,
+    "stamina": 111
+  },
+  "Togetic": {
+    "id": 176,
+    "master_str": "V0176_POKEMON_TOGETIC",
+    "attack": 139,
+    "defense": 181,
+    "stamina": 146
+  },
+  "Natu": {
+    "id": 177,
+    "master_str": "V0177_POKEMON_NATU",
+    "attack": 134,
+    "defense": 89,
+    "stamina": 120
+  },
+  "Xatu": {
+    "id": 178,
+    "master_str": "V0178_POKEMON_XATU",
+    "attack": 192,
+    "defense": 146,
+    "stamina": 163
+  },
+  "Mareep": {
+    "id": 179,
+    "master_str": "V0179_POKEMON_MAREEP",
+    "attack": 114,
+    "defense": 79,
+    "stamina": 146
+  },
+  "Flaaffy": {
+    "id": 180,
+    "master_str": "V0180_POKEMON_FLAAFFY",
+    "attack": 145,
+    "defense": 109,
+    "stamina": 172
+  },
+  "Ampharos": {
+    "id": 181,
+    "master_str": "V0181_POKEMON_AMPHAROS",
+    "attack": 211,
+    "defense": 169,
+    "stamina": 207
+  },
+  "Bellossom": {
+    "id": 182,
+    "master_str": "V0182_POKEMON_BELLOSSOM",
+    "attack": 169,
+    "defense": 186,
+    "stamina": 181
+  },
+  "Marill": {
+    "id": 183,
+    "master_str": "V0183_POKEMON_MARILL",
+    "attack": 37,
+    "defense": 93,
+    "stamina": 172
+  },
+  "Azumarill": {
+    "id": 184,
+    "master_str": "V0184_POKEMON_AZUMARILL",
+    "attack": 112,
+    "defense": 152,
+    "stamina": 225
+  },
+  "Sudowoodo": {
+    "id": 185,
+    "master_str": "V0185_POKEMON_SUDOWOODO",
+    "attack": 167,
+    "defense": 176,
+    "stamina": 172
+  },
+  "Politoed": {
+    "id": 186,
+    "master_str": "V0186_POKEMON_POLITOED",
+    "attack": 174,
+    "defense": 179,
+    "stamina": 207
+  },
+  "Hoppip": {
+    "id": 187,
+    "master_str": "V0187_POKEMON_HOPPIP",
+    "attack": 67,
+    "defense": 94,
+    "stamina": 111
+  },
+  "Skiploom": {
+    "id": 188,
+    "master_str": "V0188_POKEMON_SKIPLOOM",
+    "attack": 91,
+    "defense": 120,
+    "stamina": 146
+  },
+  "Jumpluff": {
+    "id": 189,
+    "master_str": "V0189_POKEMON_JUMPLUFF",
+    "attack": 118,
+    "defense": 183,
+    "stamina": 181
+  },
+  "Aipom": {
+    "id": 190,
+    "master_str": "V0190_POKEMON_AIPOM",
+    "attack": 136,
+    "defense": 112,
+    "stamina": 146
+  },
+  "Sunkern": {
+    "id": 191,
+    "master_str": "V0191_POKEMON_SUNKERN",
+    "attack": 55,
+    "defense": 55,
+    "stamina": 102
+  },
+  "Sunflora": {
+    "id": 192,
+    "master_str": "V0192_POKEMON_SUNFLORA",
+    "attack": 185,
+    "defense": 135,
+    "stamina": 181
+  },
+  "Yanma": {
+    "id": 193,
+    "master_str": "V0193_POKEMON_YANMA",
+    "attack": 154,
+    "defense": 94,
+    "stamina": 163
+  },
+  "Wooper": {
+    "id": 194,
+    "master_str": "V0194_POKEMON_WOOPER",
+    "attack": 75,
+    "defense": 66,
+    "stamina": 146
+  },
+  "Quagsire": {
+    "id": 195,
+    "master_str": "V0195_POKEMON_QUAGSIRE",
+    "attack": 152,
+    "defense": 143,
+    "stamina": 216
+  },
+  "Espeon": {
+    "id": 196,
+    "master_str": "V0196_POKEMON_ESPEON",
+    "attack": 261,
+    "defense": 175,
+    "stamina": 163
+  },
+  "Umbreon": {
+    "id": 197,
+    "master_str": "V0197_POKEMON_UMBREON",
+    "attack": 126,
+    "defense": 240,
+    "stamina": 216
+  },
+  "Murkrow": {
+    "id": 198,
+    "master_str": "V0198_POKEMON_MURKROW",
+    "attack": 175,
+    "defense": 87,
+    "stamina": 155
+  },
+  "Slowking": {
+    "id": 199,
+    "master_str": "V0199_POKEMON_SLOWKING",
+    "attack": 177,
+    "defense": 180,
+    "stamina": 216
+  },
+  "Misdreavus": {
+    "id": 200,
+    "master_str": "V0200_POKEMON_MISDREAVUS",
+    "attack": 167,
+    "defense": 154,
+    "stamina": 155
+  },
+  "Unown": {
+    "id": 201,
+    "master_str": "V0201_POKEMON_UNOWN",
+    "attack": 136,
+    "defense": 91,
+    "stamina": 134
+  },
+  "Wobbuffet": {
+    "id": 202,
+    "master_str": "V0202_POKEMON_WOBBUFFET",
+    "attack": 60,
+    "defense": 106,
+    "stamina": 382
+  },
+  "Girafarig": {
+    "id": 203,
+    "master_str": "V0203_POKEMON_GIRAFARIG",
+    "attack": 182,
+    "defense": 133,
+    "stamina": 172
+  },
+  "Pineco": {
+    "id": 204,
+    "master_str": "V0204_POKEMON_PINECO",
+    "attack": 108,
+    "defense": 122,
+    "stamina": 137
+  },
+  "Forretress": {
+    "id": 205,
+    "master_str": "V0205_POKEMON_FORRETRESS",
+    "attack": 161,
+    "defense": 205,
+    "stamina": 181
+  },
+  "Dunsparce": {
+    "id": 206,
+    "master_str": "V0206_POKEMON_DUNSPARCE",
+    "attack": 131,
+    "defense": 128,
+    "stamina": 225
+  },
+  "Gligar": {
+    "id": 207,
+    "master_str": "V0207_POKEMON_GLIGAR",
+    "attack": 143,
+    "defense": 184,
+    "stamina": 163
+  },
+  "Steelix": {
+    "id": 208,
+    "master_str": "V0208_POKEMON_STEELIX",
+    "attack": 148,
+    "defense": 272,
+    "stamina": 181
+  },
+  "Snubbull": {
+    "id": 209,
+    "master_str": "V0209_POKEMON_SNUBBULL",
+    "attack": 137,
+    "defense": 85,
+    "stamina": 155
+  },
+  "Granbull": {
+    "id": 210,
+    "master_str": "V0210_POKEMON_GRANBULL",
+    "attack": 212,
+    "defense": 131,
+    "stamina": 207
+  },
+  "Qwilfish": {
+    "id": 211,
+    "master_str": "V0211_POKEMON_QWILFISH",
+    "attack": 184,
+    "defense": 138,
+    "stamina": 163
+  },
+  "Scizor": {
+    "id": 212,
+    "master_str": "V0212_POKEMON_SCIZOR",
+    "attack": 236,
+    "defense": 181,
+    "stamina": 172
+  },
+  "Shuckle": {
+    "id": 213,
+    "master_str": "V0213_POKEMON_SHUCKLE",
+    "attack": 17,
+    "defense": 396,
+    "stamina": 85
+  },
+  "Heracross": {
+    "id": 214,
+    "master_str": "V0214_POKEMON_HERACROSS",
+    "attack": 234,
+    "defense": 179,
+    "stamina": 190
+  },
+  "Sneasel": {
+    "id": 215,
+    "master_str": "V0215_POKEMON_SNEASEL",
+    "attack": 189,
+    "defense": 146,
+    "stamina": 146
+  },
+  "Teddiursa": {
+    "id": 216,
+    "master_str": "V0216_POKEMON_TEDDIURSA",
+    "attack": 142,
+    "defense": 93,
+    "stamina": 155
+  },
+  "Ursaring": {
+    "id": 217,
+    "master_str": "V0217_POKEMON_URSARING",
+    "attack": 236,
+    "defense": 144,
+    "stamina": 207
+  },
+  "Slugma": {
+    "id": 218,
+    "master_str": "V0218_POKEMON_SLUGMA",
+    "attack": 118,
+    "defense": 71,
+    "stamina": 120
+  },
+  "Magcargo": {
+    "id": 219,
+    "master_str": "V0219_POKEMON_MAGCARGO",
+    "attack": 139,
+    "defense": 191,
+    "stamina": 137
+  },
+  "Swinub": {
+    "id": 220,
+    "master_str": "V0220_POKEMON_SWINUB",
+    "attack": 90,
+    "defense": 69,
+    "stamina": 137
+  },
+  "Piloswine": {
+    "id": 221,
+    "master_str": "V0221_POKEMON_PILOSWINE",
+    "attack": 181,
+    "defense": 138,
+    "stamina": 225
+  },
+  "Corsola": {
+    "id": 222,
+    "master_str": "V0222_POKEMON_CORSOLA",
+    "attack": 118,
+    "defense": 156,
+    "stamina": 146
+  },
+  "Remoraid": {
+    "id": 223,
+    "master_str": "V0223_POKEMON_REMORAID",
+    "attack": 127,
+    "defense": 69,
+    "stamina": 111
+  },
+  "Octillery": {
+    "id": 224,
+    "master_str": "V0224_POKEMON_OCTILLERY",
+    "attack": 197,
+    "defense": 141,
+    "stamina": 181
+  },
+  "Delibird": {
+    "id": 225,
+    "master_str": "V0225_POKEMON_DELIBIRD",
+    "attack": 128,
+    "defense": 90,
+    "stamina": 128
+  },
+  "Mantine": {
+    "id": 226,
+    "master_str": "V0226_POKEMON_MANTINE",
+    "attack": 148,
+    "defense": 226,
+    "stamina": 163
+  },
+  "Skarmory": {
+    "id": 227,
+    "master_str": "V0227_POKEMON_SKARMORY",
+    "attack": 148,
+    "defense": 226,
+    "stamina": 163
+  },
+  "Houndour": {
+    "id": 228,
+    "master_str": "V0228_POKEMON_HOUNDOUR",
+    "attack": 152,
+    "defense": 83,
+    "stamina": 128
+  },
+  "Houndoom": {
+    "id": 229,
+    "master_str": "V0229_POKEMON_HOUNDOOM",
+    "attack": 224,
+    "defense": 144,
+    "stamina": 181
+  },
+  "Kingdra": {
+    "id": 230,
+    "master_str": "V0230_POKEMON_KINGDRA",
+    "attack": 194,
+    "defense": 194,
+    "stamina": 181
+  },
+  "Phanpy": {
+    "id": 231,
+    "master_str": "V0231_POKEMON_PHANPY",
+    "attack": 107,
+    "defense": 98,
+    "stamina": 207
+  },
+  "Donphan": {
+    "id": 232,
+    "master_str": "V0232_POKEMON_DONPHAN",
+    "attack": 214,
+    "defense": 185,
+    "stamina": 207
+  },
+  "Porygon2": {
+    "id": 233,
+    "master_str": "V0233_POKEMON_PORYGON2",
+    "attack": 198,
+    "defense": 180,
+    "stamina": 198
+  },
+  "Stantler": {
+    "id": 234,
+    "master_str": "V0234_POKEMON_STANTLER",
+    "attack": 192,
+    "defense": 131,
+    "stamina": 177
+  },
+  "Smeargle": {
+    "id": 235,
+    "master_str": "V0235_POKEMON_SMEARGLE",
+    "attack": 40,
+    "defense": 83,
+    "stamina": 146
+  },
+  "Tyrogue": {
+    "id": 236,
+    "master_str": "V0236_POKEMON_TYROGUE",
+    "attack": 64,
+    "defense": 64,
+    "stamina": 111
+  },
+  "Hitmontop": {
+    "id": 237,
+    "master_str": "V0237_POKEMON_HITMONTOP",
+    "attack": 173,
+    "defense": 207,
+    "stamina": 137
+  },
+  "Smoochum": {
+    "id": 238,
+    "master_str": "V0238_POKEMON_SMOOCHUM",
+    "attack": 153,
+    "defense": 91,
+    "stamina": 128
+  },
+  "Elekid": {
+    "id": 239,
+    "master_str": "V0239_POKEMON_ELEKID",
+    "attack": 135,
+    "defense": 101,
+    "stamina": 128
+  },
+  "Magby": {
+    "id": 240,
+    "master_str": "V0240_POKEMON_MAGBY",
+    "attack": 151,
+    "defense": 99,
+    "stamina": 128
+  },
+  "Miltank": {
+    "id": 241,
+    "master_str": "V0241_POKEMON_MILTANK",
+    "attack": 157,
+    "defense": 193,
+    "stamina": 216
+  },
+  "Blissey": {
+    "id": 242,
+    "master_str": "V0242_POKEMON_BLISSEY",
+    "attack": 129,
+    "defense": 169,
+    "stamina": 496
+  },
+  "Raikou": {
+    "id": 243,
+    "master_str": "V0243_POKEMON_RAIKOU",
+    "attack": 241,
+    "defense": 195,
+    "stamina": 207
+  },
+  "Entei": {
+    "id": 244,
+    "master_str": "V0244_POKEMON_ENTEI",
+    "attack": 235,
+    "defense": 171,
+    "stamina": 251
+  },
+  "Suicune": {
+    "id": 245,
+    "master_str": "V0245_POKEMON_SUICUNE",
+    "attack": 180,
+    "defense": 235,
+    "stamina": 225
+  },
+  "Larvitar": {
+    "id": 246,
+    "master_str": "V0246_POKEMON_LARVITAR",
+    "attack": 115,
+    "defense": 93,
+    "stamina": 137
+  },
+  "Pupitar": {
+    "id": 247,
+    "master_str": "V0247_POKEMON_PUPITAR",
+    "attack": 155,
+    "defense": 133,
+    "stamina": 172
+  },
+  "Tyranitar": {
+    "id": 248,
+    "master_str": "V0248_POKEMON_TYRANITAR",
+    "attack": 251,
+    "defense": 207,
+    "stamina": 225
+  },
+  "Lugia": {
+    "id": 249,
+    "master_str": "V0249_POKEMON_LUGIA",
+    "attack": 193,
+    "defense": 310,
+    "stamina": 235
+  },
+  "Ho Oh": {
+    "id": 250,
+    "master_str": "V0250_POKEMON_HO_OH",
+    "attack": 239,
+    "defense": 244,
+    "stamina": 214
+  },
+  "Celebi": {
+    "id": 251,
+    "master_str": "V0251_POKEMON_CELEBI",
+    "attack": 210,
+    "defense": 210,
+    "stamina": 225
+  },
+  "Treecko": {
+    "id": 252,
+    "master_str": "V0252_POKEMON_TREECKO",
+    "attack": 124,
+    "defense": 94,
+    "stamina": 120
+  },
+  "Grovyle": {
+    "id": 253,
+    "master_str": "V0253_POKEMON_GROVYLE",
+    "attack": 172,
+    "defense": 120,
+    "stamina": 137
+  },
+  "Sceptile": {
+    "id": 254,
+    "master_str": "V0254_POKEMON_SCEPTILE",
+    "attack": 223,
+    "defense": 169,
+    "stamina": 172
+  },
+  "Torchic": {
+    "id": 255,
+    "master_str": "V0255_POKEMON_TORCHIC",
+    "attack": 130,
+    "defense": 87,
+    "stamina": 128
+  },
+  "Combusken": {
+    "id": 256,
+    "master_str": "V0256_POKEMON_COMBUSKEN",
+    "attack": 163,
+    "defense": 115,
+    "stamina": 155
+  },
+  "Blaziken": {
+    "id": 257,
+    "master_str": "V0257_POKEMON_BLAZIKEN",
+    "attack": 240,
+    "defense": 141,
+    "stamina": 190
+  },
+  "Mudkip": {
+    "id": 258,
+    "master_str": "V0258_POKEMON_MUDKIP",
+    "attack": 126,
+    "defense": 93,
+    "stamina": 137
+  },
+  "Marshtomp": {
+    "id": 259,
+    "master_str": "V0259_POKEMON_MARSHTOMP",
+    "attack": 156,
+    "defense": 133,
+    "stamina": 172
+  },
+  "Swampert": {
+    "id": 260,
+    "master_str": "V0260_POKEMON_SWAMPERT",
+    "attack": 208,
+    "defense": 175,
+    "stamina": 225
+  },
+  "Poochyena": {
+    "id": 261,
+    "master_str": "V0261_POKEMON_POOCHYENA",
+    "attack": 96,
+    "defense": 61,
+    "stamina": 111
+  },
+  "Mightyena": {
+    "id": 262,
+    "master_str": "V0262_POKEMON_MIGHTYENA",
+    "attack": 171,
+    "defense": 132,
+    "stamina": 172
+  },
+  "Zigzagoon": {
+    "id": 263,
+    "master_str": "V0263_POKEMON_ZIGZAGOON",
+    "attack": 58,
+    "defense": 80,
+    "stamina": 116
+  },
+  "Linoone": {
+    "id": 264,
+    "master_str": "V0264_POKEMON_LINOONE",
+    "attack": 142,
+    "defense": 128,
+    "stamina": 186
+  },
+  "Wurmple": {
+    "id": 265,
+    "master_str": "V0265_POKEMON_WURMPLE",
+    "attack": 75,
+    "defense": 59,
+    "stamina": 128
+  },
+  "Silcoon": {
+    "id": 266,
+    "master_str": "V0266_POKEMON_SILCOON",
+    "attack": 60,
+    "defense": 77,
+    "stamina": 137
+  },
+  "Beautifly": {
+    "id": 267,
+    "master_str": "V0267_POKEMON_BEAUTIFLY",
+    "attack": 189,
+    "defense": 98,
+    "stamina": 155
+  },
+  "Cascoon": {
+    "id": 268,
+    "master_str": "V0268_POKEMON_CASCOON",
+    "attack": 60,
+    "defense": 77,
+    "stamina": 137
+  },
+  "Dustox": {
+    "id": 269,
+    "master_str": "V0269_POKEMON_DUSTOX",
+    "attack": 98,
+    "defense": 162,
+    "stamina": 155
+  },
+  "Lotad": {
+    "id": 270,
+    "master_str": "V0270_POKEMON_LOTAD",
+    "attack": 71,
+    "defense": 77,
+    "stamina": 120
+  },
+  "Lombre": {
+    "id": 271,
+    "master_str": "V0271_POKEMON_LOMBRE",
+    "attack": 112,
+    "defense": 119,
+    "stamina": 155
+  },
+  "Ludicolo": {
+    "id": 272,
+    "master_str": "V0272_POKEMON_LUDICOLO",
+    "attack": 173,
+    "defense": 176,
+    "stamina": 190
+  },
+  "Seedot": {
+    "id": 273,
+    "master_str": "V0273_POKEMON_SEEDOT",
+    "attack": 71,
+    "defense": 77,
+    "stamina": 120
+  },
+  "Nuzleaf": {
+    "id": 274,
+    "master_str": "V0274_POKEMON_NUZLEAF",
+    "attack": 134,
+    "defense": 78,
+    "stamina": 172
+  },
+  "Shiftry": {
+    "id": 275,
+    "master_str": "V0275_POKEMON_SHIFTRY",
+    "attack": 200,
+    "defense": 121,
+    "stamina": 207
+  },
+  "Taillow": {
+    "id": 276,
+    "master_str": "V0276_POKEMON_TAILLOW",
+    "attack": 106,
+    "defense": 61,
+    "stamina": 120
+  },
+  "Swellow": {
+    "id": 277,
+    "master_str": "V0277_POKEMON_SWELLOW",
+    "attack": 185,
+    "defense": 124,
+    "stamina": 155
+  },
+  "Wingull": {
+    "id": 278,
+    "master_str": "V0278_POKEMON_WINGULL",
+    "attack": 106,
+    "defense": 61,
+    "stamina": 120
+  },
+  "Pelipper": {
+    "id": 279,
+    "master_str": "V0279_POKEMON_PELIPPER",
+    "attack": 175,
+    "defense": 174,
+    "stamina": 155
+  },
+  "Ralts": {
+    "id": 280,
+    "master_str": "V0280_POKEMON_RALTS",
+    "attack": 79,
+    "defense": 59,
+    "stamina": 99
+  },
+  "Kirlia": {
+    "id": 281,
+    "master_str": "V0281_POKEMON_KIRLIA",
+    "attack": 117,
+    "defense": 90,
+    "stamina": 116
+  },
+  "Gardevoir": {
+    "id": 282,
+    "master_str": "V0282_POKEMON_GARDEVOIR",
+    "attack": 237,
+    "defense": 195,
+    "stamina": 169
+  },
+  "Surskit": {
+    "id": 283,
+    "master_str": "V0283_POKEMON_SURSKIT",
+    "attack": 93,
+    "defense": 87,
+    "stamina": 120
+  },
+  "Masquerain": {
+    "id": 284,
+    "master_str": "V0284_POKEMON_MASQUERAIN",
+    "attack": 192,
+    "defense": 150,
+    "stamina": 172
+  },
+  "Shroomish": {
+    "id": 285,
+    "master_str": "V0285_POKEMON_SHROOMISH",
+    "attack": 74,
+    "defense": 110,
+    "stamina": 155
+  },
+  "Breloom": {
+    "id": 286,
+    "master_str": "V0286_POKEMON_BRELOOM",
+    "attack": 241,
+    "defense": 144,
+    "stamina": 155
+  },
+  "Slakoth": {
+    "id": 287,
+    "master_str": "V0287_POKEMON_SLAKOTH",
+    "attack": 104,
+    "defense": 92,
+    "stamina": 155
+  },
+  "Vigoroth": {
+    "id": 288,
+    "master_str": "V0288_POKEMON_VIGOROTH",
+    "attack": 159,
+    "defense": 145,
+    "stamina": 190
+  },
+  "Slaking": {
+    "id": 289,
+    "master_str": "V0289_POKEMON_SLAKING",
+    "attack": 290,
+    "defense": 166,
+    "stamina": 284
+  },
+  "Nincada": {
+    "id": 290,
+    "master_str": "V0290_POKEMON_NINCADA",
+    "attack": 80,
+    "defense": 126,
+    "stamina": 104
+  },
+  "Ninjask": {
+    "id": 291,
+    "master_str": "V0291_POKEMON_NINJASK",
+    "attack": 199,
+    "defense": 112,
+    "stamina": 156
+  },
+  "Shedinja": {
+    "id": 292,
+    "master_str": "V0292_POKEMON_SHEDINJA",
+    "attack": 153,
+    "defense": 73,
+    "stamina": 1
+  },
+  "Whismur": {
+    "id": 293,
+    "master_str": "V0293_POKEMON_WHISMUR",
+    "attack": 92,
+    "defense": 42,
+    "stamina": 162
+  },
+  "Loudred": {
+    "id": 294,
+    "master_str": "V0294_POKEMON_LOUDRED",
+    "attack": 134,
+    "defense": 81,
+    "stamina": 197
+  },
+  "Exploud": {
+    "id": 295,
+    "master_str": "V0295_POKEMON_EXPLOUD",
+    "attack": 179,
+    "defense": 137,
+    "stamina": 232
+  },
+  "Makuhita": {
+    "id": 296,
+    "master_str": "V0296_POKEMON_MAKUHITA",
+    "attack": 99,
+    "defense": 54,
+    "stamina": 176
+  },
+  "Hariyama": {
+    "id": 297,
+    "master_str": "V0297_POKEMON_HARIYAMA",
+    "attack": 209,
+    "defense": 114,
+    "stamina": 302
+  },
+  "Azurill": {
+    "id": 298,
+    "master_str": "V0298_POKEMON_AZURILL",
+    "attack": 36,
+    "defense": 71,
+    "stamina": 137
+  },
+  "Nosepass": {
+    "id": 299,
+    "master_str": "V0299_POKEMON_NOSEPASS",
+    "attack": 82,
+    "defense": 215,
+    "stamina": 102
+  },
+  "Skitty": {
+    "id": 300,
+    "master_str": "V0300_POKEMON_SKITTY",
+    "attack": 84,
+    "defense": 79,
+    "stamina": 137
+  },
+  "Delcatty": {
+    "id": 301,
+    "master_str": "V0301_POKEMON_DELCATTY",
+    "attack": 132,
+    "defense": 127,
+    "stamina": 172
+  },
+  "Sableye": {
+    "id": 302,
+    "master_str": "V0302_POKEMON_SABLEYE",
+    "attack": 141,
+    "defense": 136,
+    "stamina": 137
+  },
+  "Mawile": {
+    "id": 303,
+    "master_str": "V0303_POKEMON_MAWILE",
+    "attack": 155,
+    "defense": 141,
+    "stamina": 137
+  },
+  "Aron": {
+    "id": 304,
+    "master_str": "V0304_POKEMON_ARON",
+    "attack": 121,
+    "defense": 141,
+    "stamina": 137
+  },
+  "Lairon": {
+    "id": 305,
+    "master_str": "V0305_POKEMON_LAIRON",
+    "attack": 158,
+    "defense": 198,
+    "stamina": 155
+  },
+  "Aggron": {
+    "id": 306,
+    "master_str": "V0306_POKEMON_AGGRON",
+    "attack": 198,
+    "defense": 257,
+    "stamina": 172
+  },
+  "Meditite": {
+    "id": 307,
+    "master_str": "V0307_POKEMON_MEDITITE",
+    "attack": 78,
+    "defense": 107,
+    "stamina": 102
+  },
+  "Medicham": {
+    "id": 308,
+    "master_str": "V0308_POKEMON_MEDICHAM",
+    "attack": 121,
+    "defense": 152,
+    "stamina": 155
+  },
+  "Electrike": {
+    "id": 309,
+    "master_str": "V0309_POKEMON_ELECTRIKE",
+    "attack": 123,
+    "defense": 78,
+    "stamina": 120
+  },
+  "Manectric": {
+    "id": 310,
+    "master_str": "V0310_POKEMON_MANECTRIC",
+    "attack": 215,
+    "defense": 127,
+    "stamina": 172
+  },
+  "Plusle": {
+    "id": 311,
+    "master_str": "V0311_POKEMON_PLUSLE",
+    "attack": 167,
+    "defense": 129,
+    "stamina": 155
+  },
+  "Minun": {
+    "id": 312,
+    "master_str": "V0312_POKEMON_MINUN",
+    "attack": 147,
+    "defense": 150,
+    "stamina": 155
+  },
+  "Volbeat": {
+    "id": 313,
+    "master_str": "V0313_POKEMON_VOLBEAT",
+    "attack": 143,
+    "defense": 166,
+    "stamina": 163
+  },
+  "Illumise": {
+    "id": 314,
+    "master_str": "V0314_POKEMON_ILLUMISE",
+    "attack": 143,
+    "defense": 166,
+    "stamina": 163
+  },
+  "Roselia": {
+    "id": 315,
+    "master_str": "V0315_POKEMON_ROSELIA",
+    "attack": 186,
+    "defense": 131,
+    "stamina": 137
+  },
+  "Gulpin": {
+    "id": 316,
+    "master_str": "V0316_POKEMON_GULPIN",
+    "attack": 80,
+    "defense": 99,
+    "stamina": 172
+  },
+  "Swalot": {
+    "id": 317,
+    "master_str": "V0317_POKEMON_SWALOT",
+    "attack": 140,
+    "defense": 159,
+    "stamina": 225
+  },
+  "Carvanha": {
+    "id": 318,
+    "master_str": "V0318_POKEMON_CARVANHA",
+    "attack": 171,
+    "defense": 39,
+    "stamina": 128
+  },
+  "Sharpedo": {
+    "id": 319,
+    "master_str": "V0319_POKEMON_SHARPEDO",
+    "attack": 243,
+    "defense": 83,
+    "stamina": 172
+  },
+  "Wailmer": {
+    "id": 320,
+    "master_str": "V0320_POKEMON_WAILMER",
+    "attack": 136,
+    "defense": 68,
+    "stamina": 277
+  },
+  "Wailord": {
+    "id": 321,
+    "master_str": "V0321_POKEMON_WAILORD",
+    "attack": 175,
+    "defense": 87,
+    "stamina": 347
+  },
+  "Numel": {
+    "id": 322,
+    "master_str": "V0322_POKEMON_NUMEL",
+    "attack": 119,
+    "defense": 79,
+    "stamina": 155
+  },
+  "Camerupt": {
+    "id": 323,
+    "master_str": "V0323_POKEMON_CAMERUPT",
+    "attack": 194,
+    "defense": 136,
+    "stamina": 172
+  },
+  "Torkoal": {
+    "id": 324,
+    "master_str": "V0324_POKEMON_TORKOAL",
+    "attack": 151,
+    "defense": 203,
+    "stamina": 172
+  },
+  "Spoink": {
+    "id": 325,
+    "master_str": "V0325_POKEMON_SPOINK",
+    "attack": 125,
+    "defense": 122,
+    "stamina": 155
+  },
+  "Grumpig": {
+    "id": 326,
+    "master_str": "V0326_POKEMON_GRUMPIG",
+    "attack": 171,
+    "defense": 188,
+    "stamina": 190
+  },
+  "Spinda": {
+    "id": 327,
+    "master_str": "V0327_POKEMON_SPINDA",
+    "attack": 116,
+    "defense": 116,
+    "stamina": 155
+  },
+  "Trapinch": {
+    "id": 328,
+    "master_str": "V0328_POKEMON_TRAPINCH",
+    "attack": 162,
+    "defense": 78,
+    "stamina": 128
+  },
+  "Vibrava": {
+    "id": 329,
+    "master_str": "V0329_POKEMON_VIBRAVA",
+    "attack": 134,
+    "defense": 99,
+    "stamina": 137
+  },
+  "Flygon": {
+    "id": 330,
+    "master_str": "V0330_POKEMON_FLYGON",
+    "attack": 205,
+    "defense": 168,
+    "stamina": 190
+  },
+  "Cacnea": {
+    "id": 331,
+    "master_str": "V0331_POKEMON_CACNEA",
+    "attack": 156,
+    "defense": 74,
+    "stamina": 137
+  },
+  "Cacturne": {
+    "id": 332,
+    "master_str": "V0332_POKEMON_CACTURNE",
+    "attack": 221,
+    "defense": 115,
+    "stamina": 172
+  },
+  "Swablu": {
+    "id": 333,
+    "master_str": "V0333_POKEMON_SWABLU",
+    "attack": 76,
+    "defense": 132,
+    "stamina": 128
+  },
+  "Altaria": {
+    "id": 334,
+    "master_str": "V0334_POKEMON_ALTARIA",
+    "attack": 141,
+    "defense": 201,
+    "stamina": 181
+  },
+  "Zangoose": {
+    "id": 335,
+    "master_str": "V0335_POKEMON_ZANGOOSE",
+    "attack": 222,
+    "defense": 124,
+    "stamina": 177
+  },
+  "Seviper": {
+    "id": 336,
+    "master_str": "V0336_POKEMON_SEVIPER",
+    "attack": 196,
+    "defense": 118,
+    "stamina": 177
+  },
+  "Lunatone": {
+    "id": 337,
+    "master_str": "V0337_POKEMON_LUNATONE",
+    "attack": 178,
+    "defense": 153,
+    "stamina": 207
+  },
+  "Solrock": {
+    "id": 338,
+    "master_str": "V0338_POKEMON_SOLROCK",
+    "attack": 178,
+    "defense": 153,
+    "stamina": 207
+  },
+  "Barboach": {
+    "id": 339,
+    "master_str": "V0339_POKEMON_BARBOACH",
+    "attack": 93,
+    "defense": 82,
+    "stamina": 137
+  },
+  "Whiscash": {
+    "id": 340,
+    "master_str": "V0340_POKEMON_WHISCASH",
+    "attack": 151,
+    "defense": 141,
+    "stamina": 242
+  },
+  "Corphish": {
+    "id": 341,
+    "master_str": "V0341_POKEMON_CORPHISH",
+    "attack": 141,
+    "defense": 99,
+    "stamina": 125
+  },
+  "Crawdaunt": {
+    "id": 342,
+    "master_str": "V0342_POKEMON_CRAWDAUNT",
+    "attack": 224,
+    "defense": 142,
+    "stamina": 160
+  },
+  "Baltoy": {
+    "id": 343,
+    "master_str": "V0343_POKEMON_BALTOY",
+    "attack": 77,
+    "defense": 124,
+    "stamina": 120
+  },
+  "Claydol": {
+    "id": 344,
+    "master_str": "V0344_POKEMON_CLAYDOL",
+    "attack": 140,
+    "defense": 229,
+    "stamina": 155
+  },
+  "Lileep": {
+    "id": 345,
+    "master_str": "V0345_POKEMON_LILEEP",
+    "attack": 105,
+    "defense": 150,
+    "stamina": 165
+  },
+  "Cradily": {
+    "id": 346,
+    "master_str": "V0346_POKEMON_CRADILY",
+    "attack": 152,
+    "defense": 194,
+    "stamina": 200
+  },
+  "Anorith": {
+    "id": 347,
+    "master_str": "V0347_POKEMON_ANORITH",
+    "attack": 176,
+    "defense": 100,
+    "stamina": 128
+  },
+  "Armaldo": {
+    "id": 348,
+    "master_str": "V0348_POKEMON_ARMALDO",
+    "attack": 222,
+    "defense": 174,
+    "stamina": 181
+  },
+  "Feebas": {
+    "id": 349,
+    "master_str": "V0349_POKEMON_FEEBAS",
+    "attack": 29,
+    "defense": 85,
+    "stamina": 85
+  },
+  "Milotic": {
+    "id": 350,
+    "master_str": "V0350_POKEMON_MILOTIC",
+    "attack": 192,
+    "defense": 219,
+    "stamina": 216
+  },
+  "Castform": {
+    "id": 351,
+    "master_str": "V0351_POKEMON_CASTFORM_NORMAL",
+    "attack": 139,
+    "defense": 139,
+    "stamina": 172
+  },
+  "Rainy Castform": {
+    "id": 351,
+    "master_str": "V0351_POKEMON_CASTFORM_RAINY",
+    "attack": 139,
+    "defense": 139,
+    "stamina": 172
+  },
+  "Snowy Castform": {
+    "id": 351,
+    "master_str": "V0351_POKEMON_CASTFORM_SNOWY",
+    "attack": 139,
+    "defense": 139,
+    "stamina": 172
+  },
+  "Sunny Castform": {
+    "id": 351,
+    "master_str": "V0351_POKEMON_CASTFORM_SUNNY",
+    "attack": 139,
+    "defense": 139,
+    "stamina": 172
+  },
+  "Kecleon": {
+    "id": 352,
+    "master_str": "V0352_POKEMON_KECLEON",
+    "attack": 161,
+    "defense": 189,
+    "stamina": 155
+  },
+  "Shuppet": {
+    "id": 353,
+    "master_str": "V0353_POKEMON_SHUPPET",
+    "attack": 138,
+    "defense": 65,
+    "stamina": 127
+  },
+  "Banette": {
+    "id": 354,
+    "master_str": "V0354_POKEMON_BANETTE",
+    "attack": 218,
+    "defense": 126,
+    "stamina": 162
+  },
+  "Duskull": {
+    "id": 355,
+    "master_str": "V0355_POKEMON_DUSKULL",
+    "attack": 70,
+    "defense": 162,
+    "stamina": 85
+  },
+  "Dusclops": {
+    "id": 356,
+    "master_str": "V0356_POKEMON_DUSCLOPS",
+    "attack": 124,
+    "defense": 234,
+    "stamina": 120
+  },
+  "Tropius": {
+    "id": 357,
+    "master_str": "V0357_POKEMON_TROPIUS",
+    "attack": 136,
+    "defense": 163,
+    "stamina": 223
+  },
+  "Chimecho": {
+    "id": 358,
+    "master_str": "V0358_POKEMON_CHIMECHO",
+    "attack": 175,
+    "defense": 170,
+    "stamina": 181
+  },
+  "Absol": {
+    "id": 359,
+    "master_str": "V0359_POKEMON_ABSOL",
+    "attack": 246,
+    "defense": 120,
+    "stamina": 163
+  },
+  "Wynaut": {
+    "id": 360,
+    "master_str": "V0360_POKEMON_WYNAUT",
+    "attack": 41,
+    "defense": 86,
+    "stamina": 216
+  },
+  "Snorunt": {
+    "id": 361,
+    "master_str": "V0361_POKEMON_SNORUNT",
+    "attack": 95,
+    "defense": 95,
+    "stamina": 137
+  },
+  "Glalie": {
+    "id": 362,
+    "master_str": "V0362_POKEMON_GLALIE",
+    "attack": 162,
+    "defense": 162,
+    "stamina": 190
+  },
+  "Spheal": {
+    "id": 363,
+    "master_str": "V0363_POKEMON_SPHEAL",
+    "attack": 95,
+    "defense": 90,
+    "stamina": 172
+  },
+  "Sealeo": {
+    "id": 364,
+    "master_str": "V0364_POKEMON_SEALEO",
+    "attack": 137,
+    "defense": 132,
+    "stamina": 207
+  },
+  "Walrein": {
+    "id": 365,
+    "master_str": "V0365_POKEMON_WALREIN",
+    "attack": 182,
+    "defense": 176,
+    "stamina": 242
+  },
+  "Clamperl": {
+    "id": 366,
+    "master_str": "V0366_POKEMON_CLAMPERL",
+    "attack": 133,
+    "defense": 135,
+    "stamina": 111
+  },
+  "Huntail": {
+    "id": 367,
+    "master_str": "V0367_POKEMON_HUNTAIL",
+    "attack": 197,
+    "defense": 179,
+    "stamina": 146
+  },
+  "Gorebyss": {
+    "id": 368,
+    "master_str": "V0368_POKEMON_GOREBYSS",
+    "attack": 211,
+    "defense": 179,
+    "stamina": 146
+  },
+  "Relicanth": {
+    "id": 369,
+    "master_str": "V0369_POKEMON_RELICANTH",
+    "attack": 162,
+    "defense": 203,
+    "stamina": 225
+  },
+  "Luvdisc": {
+    "id": 370,
+    "master_str": "V0370_POKEMON_LUVDISC",
+    "attack": 81,
+    "defense": 128,
+    "stamina": 125
+  },
+  "Bagon": {
+    "id": 371,
+    "master_str": "V0371_POKEMON_BAGON",
+    "attack": 134,
+    "defense": 93,
+    "stamina": 128
+  },
+  "Shelgon": {
+    "id": 372,
+    "master_str": "V0372_POKEMON_SHELGON",
+    "attack": 172,
+    "defense": 155,
+    "stamina": 163
+  },
+  "Salamence": {
+    "id": 373,
+    "master_str": "V0373_POKEMON_SALAMENCE",
+    "attack": 277,
+    "defense": 168,
+    "stamina": 216
+  },
+  "Beldum": {
+    "id": 374,
+    "master_str": "V0374_POKEMON_BELDUM",
+    "attack": 96,
+    "defense": 132,
+    "stamina": 120
+  },
+  "Metang": {
+    "id": 375,
+    "master_str": "V0375_POKEMON_METANG",
+    "attack": 138,
+    "defense": 176,
+    "stamina": 155
+  },
+  "Metagross": {
+    "id": 376,
+    "master_str": "V0376_POKEMON_METAGROSS",
+    "attack": 257,
+    "defense": 228,
+    "stamina": 190
+  },
+  "Regirock": {
+    "id": 377,
+    "master_str": "V0377_POKEMON_REGIROCK",
+    "attack": 179,
+    "defense": 309,
+    "stamina": 190
+  },
+  "Regice": {
+    "id": 378,
+    "master_str": "V0378_POKEMON_REGICE",
+    "attack": 179,
+    "defense": 309,
+    "stamina": 190
+  },
+  "Registeel": {
+    "id": 379,
+    "master_str": "V0379_POKEMON_REGISTEEL",
+    "attack": 143,
+    "defense": 285,
+    "stamina": 190
+  },
+  "Latias": {
+    "id": 380,
+    "master_str": "V0380_POKEMON_LATIAS",
+    "attack": 228,
+    "defense": 246,
+    "stamina": 190
+  },
+  "Latios": {
+    "id": 381,
+    "master_str": "V0381_POKEMON_LATIOS",
+    "attack": 268,
+    "defense": 212,
+    "stamina": 190
+  },
+  "Kyogre": {
+    "id": 382,
+    "master_str": "V0382_POKEMON_KYOGRE",
+    "attack": 270,
+    "defense": 228,
+    "stamina": 205
+  },
+  "Groudon": {
+    "id": 383,
+    "master_str": "V0383_POKEMON_GROUDON",
+    "attack": 270,
+    "defense": 228,
+    "stamina": 205
+  },
+  "Rayquaza": {
+    "id": 384,
+    "master_str": "V0384_POKEMON_RAYQUAZA",
+    "attack": 284,
+    "defense": 170,
+    "stamina": 213
+  },
+  "Jirachi": {
+    "id": 385,
+    "master_str": "V0385_POKEMON_JIRACHI",
+    "attack": 210,
+    "defense": 210,
+    "stamina": 225
+  },
+  "Attack Forme Deoxys": {
+    "id": 386,
+    "master_str": "V0386_POKEMON_DEOXYS_ATTACK",
+    "attack": 414,
+    "defense": 46,
+    "stamina": 137
+  },
+  "Defense Forme Deoxys": {
+    "id": 386,
+    "master_str": "V0386_POKEMON_DEOXYS_DEFENSE",
+    "attack": 144,
+    "defense": 330,
+    "stamina": 137
+  },
+  "Normal Forme Deoxys": {
+    "id": 386,
+    "master_str": "V0386_POKEMON_DEOXYS_NORMAL",
+    "attack": 345,
+    "defense": 115,
+    "stamina": 137
+  },
+  "Speed Forme Deoxys": {
+    "id": 386,
+    "master_str": "V0386_POKEMON_DEOXYS_SPEED",
+    "attack": 230,
+    "defense": 218,
+    "stamina": 137
+  },
+  "Turtwig": {
+    "id": 387,
+    "master_str": "V0387_POKEMON_TURTWIG",
+    "attack": 119,
+    "defense": 110,
+    "stamina": 146
+  },
+  "Grotle": {
+    "id": 388,
+    "master_str": "V0388_POKEMON_GROTLE",
+    "attack": 157,
+    "defense": 143,
+    "stamina": 181
+  },
+  "Torterra": {
+    "id": 389,
+    "master_str": "V0389_POKEMON_TORTERRA",
+    "attack": 202,
+    "defense": 188,
+    "stamina": 216
+  },
+  "Chimchar": {
+    "id": 390,
+    "master_str": "V0390_POKEMON_CHIMCHAR",
+    "attack": 113,
+    "defense": 86,
+    "stamina": 127
+  },
+  "Monferno": {
+    "id": 391,
+    "master_str": "V0391_POKEMON_MONFERNO",
+    "attack": 158,
+    "defense": 105,
+    "stamina": 162
+  },
+  "Infernape": {
+    "id": 392,
+    "master_str": "V0392_POKEMON_INFERNAPE",
+    "attack": 222,
+    "defense": 151,
+    "stamina": 183
+  },
+  "Piplup": {
+    "id": 393,
+    "master_str": "V0393_POKEMON_PIPLUP",
+    "attack": 112,
+    "defense": 102,
+    "stamina": 142
+  },
+  "Prinplup": {
+    "id": 394,
+    "master_str": "V0394_POKEMON_PRINPLUP",
+    "attack": 150,
+    "defense": 139,
+    "stamina": 162
+  },
+  "Empoleon": {
+    "id": 395,
+    "master_str": "V0395_POKEMON_EMPOLEON",
+    "attack": 210,
+    "defense": 186,
+    "stamina": 197
+  },
+  "Starly": {
+    "id": 396,
+    "master_str": "V0396_POKEMON_STARLY",
+    "attack": 101,
+    "defense": 58,
+    "stamina": 120
+  },
+  "Staravia": {
+    "id": 397,
+    "master_str": "V0397_POKEMON_STARAVIA",
+    "attack": 142,
+    "defense": 94,
+    "stamina": 146
+  },
+  "Staraptor": {
+    "id": 398,
+    "master_str": "V0398_POKEMON_STARAPTOR",
+    "attack": 234,
+    "defense": 140,
+    "stamina": 198
+  },
+  "Bidoof": {
+    "id": 399,
+    "master_str": "V0399_POKEMON_BIDOOF",
+    "attack": 80,
+    "defense": 73,
+    "stamina": 153
+  },
+  "Bibarel": {
+    "id": 400,
+    "master_str": "V0400_POKEMON_BIBAREL",
+    "attack": 162,
+    "defense": 119,
+    "stamina": 188
+  },
+  "Kricketot": {
+    "id": 401,
+    "master_str": "V0401_POKEMON_KRICKETOT",
+    "attack": 45,
+    "defense": 74,
+    "stamina": 114
+  },
+  "Kricketune": {
+    "id": 402,
+    "master_str": "V0402_POKEMON_KRICKETUNE",
+    "attack": 160,
+    "defense": 100,
+    "stamina": 184
+  },
+  "Shinx": {
+    "id": 403,
+    "master_str": "V0403_POKEMON_SHINX",
+    "attack": 117,
+    "defense": 64,
+    "stamina": 128
+  },
+  "Luxio": {
+    "id": 404,
+    "master_str": "V0404_POKEMON_LUXIO",
+    "attack": 159,
+    "defense": 95,
+    "stamina": 155
+  },
+  "Luxray": {
+    "id": 405,
+    "master_str": "V0405_POKEMON_LUXRAY",
+    "attack": 232,
+    "defense": 156,
+    "stamina": 190
+  },
+  "Budew": {
+    "id": 406,
+    "master_str": "V0406_POKEMON_BUDEW",
+    "attack": 91,
+    "defense": 109,
+    "stamina": 120
+  },
+  "Roserade": {
+    "id": 407,
+    "master_str": "V0407_POKEMON_ROSERADE",
+    "attack": 243,
+    "defense": 185,
+    "stamina": 155
+  },
+  "Cranidos": {
+    "id": 408,
+    "master_str": "V0408_POKEMON_CRANIDOS",
+    "attack": 218,
+    "defense": 71,
+    "stamina": 167
+  },
+  "Rampardos": {
+    "id": 409,
+    "master_str": "V0409_POKEMON_RAMPARDOS",
+    "attack": 295,
+    "defense": 109,
+    "stamina": 219
+  },
+  "Shieldon": {
+    "id": 410,
+    "master_str": "V0410_POKEMON_SHIELDON",
+    "attack": 76,
+    "defense": 195,
+    "stamina": 102
+  },
+  "Bastiodon": {
+    "id": 411,
+    "master_str": "V0411_POKEMON_BASTIODON",
+    "attack": 94,
+    "defense": 286,
+    "stamina": 155
+  },
+  "Plant Burmy": {
+    "id": 412,
+    "master_str": "V0412_POKEMON_BURMY_PLANT",
+    "attack": 53,
+    "defense": 83,
+    "stamina": 120
+  },
+  "Sandy Burmy": {
+    "id": 412,
+    "master_str": "V0412_POKEMON_BURMY_SANDY",
+    "attack": 53,
+    "defense": 83,
+    "stamina": 120
+  },
+  "Trash Burmy": {
+    "id": 412,
+    "master_str": "V0412_POKEMON_BURMY_TRASH",
+    "attack": 53,
+    "defense": 83,
+    "stamina": 120
+  },
+  "Plant Wormadam": {
+    "id": 413,
+    "master_str": "V0413_POKEMON_WORMADAM_PLANT",
+    "attack": 141,
+    "defense": 180,
+    "stamina": 155
+  },
+  "Sandy Wormadam": {
+    "id": 413,
+    "master_str": "V0413_POKEMON_WORMADAM_SANDY",
+    "attack": 141,
+    "defense": 180,
+    "stamina": 155
+  },
+  "Trash Wormadam": {
+    "id": 413,
+    "master_str": "V0413_POKEMON_WORMADAM_TRASH",
+    "attack": 127,
+    "defense": 175,
+    "stamina": 155
+  },
+  "Mothim": {
+    "id": 414,
+    "master_str": "V0414_POKEMON_MOTHIM",
+    "attack": 185,
+    "defense": 98,
+    "stamina": 172
+  },
+  "Combee": {
+    "id": 415,
+    "master_str": "V0415_POKEMON_COMBEE",
+    "attack": 59,
+    "defense": 83,
+    "stamina": 102
+  },
+  "Vespiquen": {
+    "id": 416,
+    "master_str": "V0416_POKEMON_VESPIQUEN",
+    "attack": 149,
+    "defense": 190,
+    "stamina": 172
+  },
+  "Pachirisu": {
+    "id": 417,
+    "master_str": "V0417_POKEMON_PACHIRISU",
+    "attack": 94,
+    "defense": 172,
+    "stamina": 155
+  },
+  "Buizel": {
+    "id": 418,
+    "master_str": "V0418_POKEMON_BUIZEL",
+    "attack": 132,
+    "defense": 67,
+    "stamina": 146
+  },
+  "Floatzel": {
+    "id": 419,
+    "master_str": "V0419_POKEMON_FLOATZEL",
+    "attack": 221,
+    "defense": 114,
+    "stamina": 198
+  },
+  "Cherubi": {
+    "id": 420,
+    "master_str": "V0420_POKEMON_CHERUBI",
+    "attack": 108,
+    "defense": 92,
+    "stamina": 128
+  },
+  "Overcast Cherrim": {
+    "id": 421,
+    "master_str": "V0421_POKEMON_CHERRIM_OVERCAST",
+    "attack": 170,
+    "defense": 153,
+    "stamina": 172
+  },
+  "Sunny Cherrim": {
+    "id": 421,
+    "master_str": "V0421_POKEMON_CHERRIM_SUNNY",
+    "attack": 170,
+    "defense": 153,
+    "stamina": 172
+  },
+  "East Sea Shellos": {
+    "id": 422,
+    "master_str": "V0422_POKEMON_SHELLOS_EAST_SEA",
+    "attack": 103,
+    "defense": 105,
+    "stamina": 183
+  },
+  "West Sea Shellos": {
+    "id": 422,
+    "master_str": "V0422_POKEMON_SHELLOS_WEST_SEA",
+    "attack": 103,
+    "defense": 105,
+    "stamina": 183
+  },
+  "East Sea Gastrodon": {
+    "id": 423,
+    "master_str": "V0423_POKEMON_GASTRODON_EAST_SEA",
+    "attack": 169,
+    "defense": 143,
+    "stamina": 244
+  },
+  "West Sea Gastrodon": {
+    "id": 423,
+    "master_str": "V0423_POKEMON_GASTRODON_WEST_SEA",
+    "attack": 169,
+    "defense": 143,
+    "stamina": 244
+  },
+  "Ambipom": {
+    "id": 424,
+    "master_str": "V0424_POKEMON_AMBIPOM",
+    "attack": 205,
+    "defense": 143,
+    "stamina": 181
+  },
+  "Drifloon": {
+    "id": 425,
+    "master_str": "V0425_POKEMON_DRIFLOON",
+    "attack": 117,
+    "defense": 80,
+    "stamina": 207
+  },
+  "Drifblim": {
+    "id": 426,
+    "master_str": "V0426_POKEMON_DRIFBLIM",
+    "attack": 180,
+    "defense": 102,
+    "stamina": 312
+  },
+  "Buneary": {
+    "id": 427,
+    "master_str": "V0427_POKEMON_BUNEARY",
+    "attack": 130,
+    "defense": 105,
+    "stamina": 146
+  },
+  "Lopunny": {
+    "id": 428,
+    "master_str": "V0428_POKEMON_LOPUNNY",
+    "attack": 156,
+    "defense": 194,
+    "stamina": 163
+  },
+  "Mismagius": {
+    "id": 429,
+    "master_str": "V0429_POKEMON_MISMAGIUS",
+    "attack": 211,
+    "defense": 187,
+    "stamina": 155
+  },
+  "Honchkrow": {
+    "id": 430,
+    "master_str": "V0430_POKEMON_HONCHKROW",
+    "attack": 243,
+    "defense": 103,
+    "stamina": 225
+  },
+  "Glameow": {
+    "id": 431,
+    "master_str": "V0431_POKEMON_GLAMEOW",
+    "attack": 109,
+    "defense": 82,
+    "stamina": 135
+  },
+  "Purugly": {
+    "id": 432,
+    "master_str": "V0432_POKEMON_PURUGLY",
+    "attack": 172,
+    "defense": 133,
+    "stamina": 174
+  },
+  "Chingling": {
+    "id": 433,
+    "master_str": "V0433_POKEMON_CHINGLING",
+    "attack": 114,
+    "defense": 94,
+    "stamina": 128
+  },
+  "Stunky": {
+    "id": 434,
+    "master_str": "V0434_POKEMON_STUNKY",
+    "attack": 121,
+    "defense": 90,
+    "stamina": 160
+  },
+  "Skuntank": {
+    "id": 435,
+    "master_str": "V0435_POKEMON_SKUNTANK",
+    "attack": 184,
+    "defense": 132,
+    "stamina": 230
+  },
+  "Bronzor": {
+    "id": 436,
+    "master_str": "V0436_POKEMON_BRONZOR",
+    "attack": 43,
+    "defense": 154,
+    "stamina": 149
+  },
+  "Bronzong": {
+    "id": 437,
+    "master_str": "V0437_POKEMON_BRONZONG",
+    "attack": 161,
+    "defense": 213,
+    "stamina": 167
+  },
+  "Bonsly": {
+    "id": 438,
+    "master_str": "V0438_POKEMON_BONSLY",
+    "attack": 124,
+    "defense": 133,
+    "stamina": 137
+  },
+  "Mime Jr": {
+    "id": 439,
+    "master_str": "V0439_POKEMON_MIME_JR",
+    "attack": 125,
+    "defense": 142,
+    "stamina": 85
+  },
+  "Happiny": {
+    "id": 440,
+    "master_str": "V0440_POKEMON_HAPPINY",
+    "attack": 25,
+    "defense": 77,
+    "stamina": 225
+  },
+  "Chatot": {
+    "id": 441,
+    "master_str": "V0441_POKEMON_CHATOT",
+    "attack": 183,
+    "defense": 91,
+    "stamina": 183
+  },
+  "Spiritomb": {
+    "id": 442,
+    "master_str": "V0442_POKEMON_SPIRITOMB",
+    "attack": 169,
+    "defense": 199,
+    "stamina": 137
+  },
+  "Gible": {
+    "id": 443,
+    "master_str": "V0443_POKEMON_GIBLE",
+    "attack": 124,
+    "defense": 84,
+    "stamina": 151
+  },
+  "Gabite": {
+    "id": 444,
+    "master_str": "V0444_POKEMON_GABITE",
+    "attack": 172,
+    "defense": 125,
+    "stamina": 169
+  },
+  "Garchomp": {
+    "id": 445,
+    "master_str": "V0445_POKEMON_GARCHOMP",
+    "attack": 261,
+    "defense": 193,
+    "stamina": 239
+  },
+  "Munchlax": {
+    "id": 446,
+    "master_str": "V0446_POKEMON_MUNCHLAX",
+    "attack": 137,
+    "defense": 117,
+    "stamina": 286
+  },
+  "Riolu": {
+    "id": 447,
+    "master_str": "V0447_POKEMON_RIOLU",
+    "attack": 127,
+    "defense": 78,
+    "stamina": 120
+  },
+  "Lucario": {
+    "id": 448,
+    "master_str": "V0448_POKEMON_LUCARIO",
+    "attack": 236,
+    "defense": 144,
+    "stamina": 172
+  },
+  "Hippopotas": {
+    "id": 449,
+    "master_str": "V0449_POKEMON_HIPPOPOTAS",
+    "attack": 124,
+    "defense": 118,
+    "stamina": 169
+  },
+  "Hippowdon": {
+    "id": 450,
+    "master_str": "V0450_POKEMON_HIPPOWDON",
+    "attack": 201,
+    "defense": 191,
+    "stamina": 239
+  },
+  "Skorupi": {
+    "id": 451,
+    "master_str": "V0451_POKEMON_SKORUPI",
+    "attack": 93,
+    "defense": 151,
+    "stamina": 120
+  },
+  "Drapion": {
+    "id": 452,
+    "master_str": "V0452_POKEMON_DRAPION",
+    "attack": 180,
+    "defense": 202,
+    "stamina": 172
+  },
+  "Croagunk": {
+    "id": 453,
+    "master_str": "V0453_POKEMON_CROAGUNK",
+    "attack": 116,
+    "defense": 76,
+    "stamina": 134
+  },
+  "Toxicroak": {
+    "id": 454,
+    "master_str": "V0454_POKEMON_TOXICROAK",
+    "attack": 211,
+    "defense": 133,
+    "stamina": 195
+  },
+  "Carnivine": {
+    "id": 455,
+    "master_str": "V0455_POKEMON_CARNIVINE",
+    "attack": 187,
+    "defense": 136,
+    "stamina": 179
+  },
+  "Finneon": {
+    "id": 456,
+    "master_str": "V0456_POKEMON_FINNEON",
+    "attack": 96,
+    "defense": 116,
+    "stamina": 135
+  },
+  "Lumineon": {
+    "id": 457,
+    "master_str": "V0457_POKEMON_LUMINEON",
+    "attack": 142,
+    "defense": 170,
+    "stamina": 170
+  },
+  "Mantyke": {
+    "id": 458,
+    "master_str": "V0458_POKEMON_MANTYKE",
+    "attack": 105,
+    "defense": 179,
+    "stamina": 128
+  },
+  "Snover": {
+    "id": 459,
+    "master_str": "V0459_POKEMON_SNOVER",
+    "attack": 115,
+    "defense": 105,
+    "stamina": 155
+  },
+  "Abomasnow": {
+    "id": 460,
+    "master_str": "V0460_POKEMON_ABOMASNOW",
+    "attack": 178,
+    "defense": 158,
+    "stamina": 207
+  },
+  "Weavile": {
+    "id": 461,
+    "master_str": "V0461_POKEMON_WEAVILE",
+    "attack": 243,
+    "defense": 171,
+    "stamina": 172
+  },
+  "Magnezone": {
+    "id": 462,
+    "master_str": "V0462_POKEMON_MAGNEZONE",
+    "attack": 238,
+    "defense": 205,
+    "stamina": 172
+  },
+  "Lickilicky": {
+    "id": 463,
+    "master_str": "V0463_POKEMON_LICKILICKY",
+    "attack": 161,
+    "defense": 181,
+    "stamina": 242
+  },
+  "Rhyperior": {
+    "id": 464,
+    "master_str": "V0464_POKEMON_RHYPERIOR",
+    "attack": 241,
+    "defense": 190,
+    "stamina": 251
+  },
+  "Tangrowth": {
+    "id": 465,
+    "master_str": "V0465_POKEMON_TANGROWTH",
+    "attack": 207,
+    "defense": 184,
+    "stamina": 225
+  },
+  "Electivire": {
+    "id": 466,
+    "master_str": "V0466_POKEMON_ELECTIVIRE",
+    "attack": 249,
+    "defense": 163,
+    "stamina": 181
+  },
+  "Magmortar": {
+    "id": 467,
+    "master_str": "V0467_POKEMON_MAGMORTAR",
+    "attack": 247,
+    "defense": 172,
+    "stamina": 181
+  },
+  "Togekiss": {
+    "id": 468,
+    "master_str": "V0468_POKEMON_TOGEKISS",
+    "attack": 225,
+    "defense": 217,
+    "stamina": 198
+  },
+  "Yanmega": {
+    "id": 469,
+    "master_str": "V0469_POKEMON_YANMEGA",
+    "attack": 231,
+    "defense": 156,
+    "stamina": 200
+  },
+  "Leafeon": {
+    "id": 470,
+    "master_str": "V0470_POKEMON_LEAFEON",
+    "attack": 216,
+    "defense": 219,
+    "stamina": 163
+  },
+  "Glaceon": {
+    "id": 471,
+    "master_str": "V0471_POKEMON_GLACEON",
+    "attack": 238,
+    "defense": 205,
+    "stamina": 163
+  },
+  "Gliscor": {
+    "id": 472,
+    "master_str": "V0472_POKEMON_GLISCOR",
+    "attack": 185,
+    "defense": 222,
+    "stamina": 181
+  },
+  "Mamoswine": {
+    "id": 473,
+    "master_str": "V0473_POKEMON_MAMOSWINE",
+    "attack": 247,
+    "defense": 146,
+    "stamina": 242
+  },
+  "Porygon Z": {
+    "id": 474,
+    "master_str": "V0474_POKEMON_PORYGON_Z",
+    "attack": 264,
+    "defense": 150,
+    "stamina": 198
+  },
+  "Gallade": {
+    "id": 475,
+    "master_str": "V0475_POKEMON_GALLADE",
+    "attack": 237,
+    "defense": 195,
+    "stamina": 169
+  },
+  "Probopass": {
+    "id": 476,
+    "master_str": "V0476_POKEMON_PROBOPASS",
+    "attack": 135,
+    "defense": 275,
+    "stamina": 155
+  },
+  "Dusknoir": {
+    "id": 477,
+    "master_str": "V0477_POKEMON_DUSKNOIR",
+    "attack": 180,
+    "defense": 254,
+    "stamina": 128
+  },
+  "Froslass": {
+    "id": 478,
+    "master_str": "V0478_POKEMON_FROSLASS",
+    "attack": 171,
+    "defense": 150,
+    "stamina": 172
+  },
+  "Fan Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_FAN",
+    "attack": 204,
+    "defense": 219,
+    "stamina": 137
+  },
+  "Frost Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_FROST",
+    "attack": 204,
+    "defense": 219,
+    "stamina": 137
+  },
+  "Heat Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_HEAT",
+    "attack": 204,
+    "defense": 219,
+    "stamina": 137
+  },
+  "Mow Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_MOW",
+    "attack": 204,
+    "defense": 219,
+    "stamina": 137
+  },
+  "Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_NORMAL",
+    "attack": 185,
+    "defense": 159,
+    "stamina": 137
+  },
+  "Wash Rotom": {
+    "id": 479,
+    "master_str": "V0479_POKEMON_ROTOM_WASH",
+    "attack": 204,
+    "defense": 219,
+    "stamina": 137
+  },
+  "Uxie": {
+    "id": 480,
+    "master_str": "V0480_POKEMON_UXIE",
+    "attack": 156,
+    "defense": 270,
+    "stamina": 181
+  },
+  "Mesprit": {
+    "id": 481,
+    "master_str": "V0481_POKEMON_MESPRIT",
+    "attack": 212,
+    "defense": 212,
+    "stamina": 190
+  },
+  "Azelf": {
+    "id": 482,
+    "master_str": "V0482_POKEMON_AZELF",
+    "attack": 270,
+    "defense": 151,
+    "stamina": 181
+  },
+  "Dialga": {
+    "id": 483,
+    "master_str": "V0483_POKEMON_DIALGA",
+    "attack": 275,
+    "defense": 211,
+    "stamina": 205
+  },
+  "Palkia": {
+    "id": 484,
+    "master_str": "V0484_POKEMON_PALKIA",
+    "attack": 280,
+    "defense": 215,
+    "stamina": 189
+  },
+  "Heatran": {
+    "id": 485,
+    "master_str": "V0485_POKEMON_HEATRAN",
+    "attack": 251,
+    "defense": 213,
+    "stamina": 209
+  },
+  "Regigigas": {
+    "id": 486,
+    "master_str": "V0486_POKEMON_REGIGIGAS",
+    "attack": 287,
+    "defense": 210,
+    "stamina": 221
+  },
+  "Giratina Altered Forme": {
+    "id": 487,
+    "master_str": "V0487_POKEMON_GIRATINA_ALTERED",
+    "attack": 187,
+    "defense": 225,
+    "stamina": 284
+  },
+  "Giratina Origin Forme": {
+    "id": 487,
+    "master_str": "V0487_POKEMON_GIRATINA_ORIGIN",
+    "attack": 225,
+    "defense": 187,
+    "stamina": 284
+  },
+  "Cresselia": {
+    "id": 488,
+    "master_str": "V0488_POKEMON_CRESSELIA",
+    "attack": 152,
+    "defense": 258,
+    "stamina": 260
+  },
+  "Phione": {
+    "id": 489,
+    "master_str": "V0489_POKEMON_PHIONE",
+    "attack": 162,
+    "defense": 162,
+    "stamina": 190
+  },
+  "Manaphy": {
+    "id": 490,
+    "master_str": "V0490_POKEMON_MANAPHY",
+    "attack": 210,
+    "defense": 210,
+    "stamina": 225
+  },
+  "Darkrai": {
+    "id": 491,
+    "master_str": "V0491_POKEMON_DARKRAI",
+    "attack": 285,
+    "defense": 198,
+    "stamina": 172
+  },
+  "Land Shaymin": {
+    "id": 492,
+    "master_str": "V0492_POKEMON_SHAYMIN_LAND",
+    "attack": 210,
+    "defense": 210,
+    "stamina": 225
+  },
+  "Sky Shaymin": {
+    "id": 492,
+    "master_str": "V0492_POKEMON_SHAYMIN_SKY",
+    "attack": 261,
+    "defense": 166,
+    "stamina": 225
+  },
+  "Arceus Bug Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_BUG",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Dark Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_DARK",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Dragon Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_DRAGON",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Electric Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_ELECTRIC",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Fairy Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_FAIRY",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Fighting Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_FIGHTING",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Fire Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_FIRE",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Flying Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_FLYING",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Ghost Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_GHOST",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Grass Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_GRASS",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Ground Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_GROUND",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Ice Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_ICE",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_NORMAL",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Poison Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_POISON",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Psychic Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_PSYCHIC",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Rock Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_ROCK",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Steel Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_STEEL",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Arceus Water Forme": {
+    "id": 493,
+    "master_str": "V0493_POKEMON_ARCEUS_WATER",
+    "attack": 238,
+    "defense": 238,
+    "stamina": 237
+  },
+  "Meltan": {
+    "id": 808,
+    "master_str": "V0808_POKEMON_MELTAN",
+    "attack": 118,
+    "defense": 99,
+    "stamina": 130
+  },
+  "Melmetal": {
+    "id": 809,
+    "master_str": "V0809_POKEMON_MELMETAL",
+    "attack": 226,
+    "defense": 190,
+    "stamina": 264
+  }
+}
