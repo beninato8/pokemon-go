@@ -63,4 +63,4 @@ gmap3.scatter(lats, lons, '# FF0000',
                               size = 40, marker = False )
 # gmap3.plot(lats, lons,  
 #            'cornflowerblue', edge_width = 2.5) 
-gmap3.draw("/Users/Nicholas/Github/pokemon-go/map.html")
+gmap3.draw("/Users/Nicholas/Github/pokemon-go/wisc/map.html")
