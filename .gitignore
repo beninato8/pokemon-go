@@ -1,5 +1,7 @@
-coords.txt
-map.html
+*.html
 __pycache__/
 .DS_Store
 ivs_tmp.txt
+quests.txt
+coords.txt
+eevee.txt
