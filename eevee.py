@@ -4,10 +4,11 @@ from tqdm import tqdm
 import json
 
 eeveelutions = ["Vaporeon", "Jolteon", "Flareon", "Espeon", "Umbreon", "Leafeon", "Glaceon"]
+eeveelutions = ["Glaceon"]
 
 with open('eevee.txt', 'r') as f:
     ivs = f.read().split('\n')
-ivs = [[int(y) for y in x.split(' ')] for x in ivs]
+ivs = [[int(y) for y in x.split(' ')] for x in ivs if len(x) > 0]
 
 # products = dict()
 # for evo in tqdm(eeveelutions):
@@ -29,7 +30,7 @@ for a,d,s in ivs:
     print(f'{a}/{d}/{s}')
     ranks = []
     for evo in eeveelutions:
-        rank = min([products[evo].index(x) for x in products[evo] if x == product(evo, a, d, s)])
+        rank = 1 + min([products[evo].index(x) for x in products[evo] if x == product(evo, a, d, s)])
         ranks.append((rank, f'   L{max_lvl(evo, a=a, d=d, s=s)} {evo}: Rank {rank}'))
     for x in sorted(ranks, key=itemgetter(0)):
         print(x[1])
