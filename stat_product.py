@@ -189,7 +189,7 @@ def comp_txt(name):
     return compare(l)
 
 if __name__ == '__main__':
-    name = 'Melmetal'
+    name = 'Sceptile'
     lvl = 4
 
 
@@ -201,7 +201,7 @@ if __name__ == '__main__':
 
     l = [p1,p2,p3,p4,p5]
     # print(compare(l))
-    # pprint(comp_txt('Infernape'))
+    # pprint(comp_txt('Trash Wormadam'))
     # print(max_lvl('Infernape'))
     # print(cp('Trapinch', 0, 0, 0, 28))
 
@@ -213,8 +213,11 @@ if __name__ == '__main__':
 
     name = 'Empoleon'
     # print(rank(name, 1, 12, 14))
-    print(cp(name, 1, 12, 14, 15))
-
+    # print(cp(name, 1, 12, 14, 15))
+    print(product('Ditto', 2, 12, 4, lvl=1))
+    print(product('Ditto', 7, 2, 10, lvl=1))
+    print(product('Ditto', 3, 6, 8, lvl=1))
+    print(product('Ditto', 11, 12, 1, lvl=1))
     # print(worst_product(name))
     # print(best_product(name))
     # print(worst_sum(name))
