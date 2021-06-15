@@ -1,0 +1,6 @@
+[submodule "pogo_assets"]
+	path = pogo_assets
+	url = https://github.com/PokeMiners/pogo_assets
+[submodule "game_masters"]
+	path = game_masters
+	url = https://github.com/PokeMiners/game_masters
